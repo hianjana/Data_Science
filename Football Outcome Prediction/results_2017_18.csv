@@ -1,0 +1,1827 @@
+AwayTeam,Date,FTR,HomeTeam,Index,league
+Leverkusen,18/08/17,H,Bayern Munich,0,bundesliga
+Augsburg,19/08/17,H,Hamburg,1,bundesliga
+Stuttgart,19/08/17,H,Hertha,2,bundesliga
+Werder Bremen,19/08/17,D,Hoffenheim,3,bundesliga
+Hannover,19/08/17,D,Mainz,4,bundesliga
+RB Leipzig,19/08/17,H,Schalke 04,5,bundesliga
+Dortmund,19/08/17,A,Wolfsburg,6,bundesliga
+Ein Frankfurt,20/08/17,D,Freiburg,7,bundesliga
+FC Koln,20/08/17,H,M'gladbach,8,bundesliga
+Hamburg,25/08/17,A,FC Koln,9,bundesliga
+M'gladbach,26/08/17,A,Augsburg,10,bundesliga
+Hertha,26/08/17,H,Dortmund,11,bundesliga
+Wolfsburg,26/08/17,A,Ein Frankfurt,12,bundesliga
+Hoffenheim,26/08/17,D,Leverkusen,13,bundesliga
+Mainz,26/08/17,D,Stuttgart,14,bundesliga
+Bayern Munich,26/08/17,A,Werder Bremen,15,bundesliga
+Schalke 04,27/08/17,H,Hannover,16,bundesliga
+Freiburg,27/08/17,H,RB Leipzig,17,bundesliga
+RB Leipzig,08/09/17,D,Hamburg,18,bundesliga
+FC Koln,09/09/17,H,Augsburg,19,bundesliga
+Dortmund,09/09/17,D,Freiburg,20,bundesliga
+Bayern Munich,09/09/17,H,Hoffenheim,21,bundesliga
+Leverkusen,09/09/17,D,Mainz,22,bundesliga
+Ein Frankfurt,09/09/17,A,M'gladbach,23,bundesliga
+Hannover,09/09/17,H,Wolfsburg,24,bundesliga
+Werder Bremen,10/09/17,H,Hertha,25,bundesliga
+Stuttgart,10/09/17,H,Schalke 04,26,bundesliga
+Hamburg,15/09/17,H,Hannover,27,bundesliga
+Mainz,16/09/17,H,Bayern Munich,28,bundesliga
+Augsburg,16/09/17,D,Ein Frankfurt,29,bundesliga
+M'gladbach,16/09/17,H,RB Leipzig,30,bundesliga
+Wolfsburg,16/09/17,H,Stuttgart,31,bundesliga
+Schalke 04,16/09/17,D,Werder Bremen,32,bundesliga
+FC Koln,17/09/17,H,Dortmund,33,bundesliga
+Hertha,17/09/17,H,Hoffenheim,34,bundesliga
+Freiburg,17/09/17,H,Leverkusen,35,bundesliga
+RB Leipzig,19/09/17,H,Augsburg,36,bundesliga
+Stuttgart,19/09/17,H,M'gladbach,37,bundesliga
+Bayern Munich,19/09/17,A,Schalke 04,38,bundesliga
+Werder Bremen,19/09/17,H,Wolfsburg,39,bundesliga
+Ein Frankfurt,20/09/17,A,FC Koln,40,bundesliga
+Hannover,20/09/17,D,Freiburg,41,bundesliga
+Dortmund,20/09/17,A,Hamburg,42,bundesliga
+Leverkusen,20/09/17,H,Hertha,43,bundesliga
+Hoffenheim,20/09/17,D,Mainz,44,bundesliga
+Wolfsburg,22/09/17,H,Bayern Munich,45,bundesliga
+M'gladbach,23/09/17,H,Dortmund,46,bundesliga
+Schalke 04,23/09/17,H,Hoffenheim,47,bundesliga
+Hertha,23/09/17,H,Mainz,48,bundesliga
+Ein Frankfurt,23/09/17,H,RB Leipzig,49,bundesliga
+Augsburg,23/09/17,D,Stuttgart,50,bundesliga
+Freiburg,23/09/17,D,Werder Bremen,51,bundesliga
+FC Koln,24/09/17,D,Hannover,52,bundesliga
+Hamburg,24/09/17,H,Leverkusen,53,bundesliga
+Leverkusen,29/09/17,H,Schalke 04,54,bundesliga
+Dortmund,30/09/17,A,Augsburg,55,bundesliga
+Stuttgart,30/09/17,H,Ein Frankfurt,56,bundesliga
+Werder Bremen,30/09/17,D,Hamburg,57,bundesliga
+Hannover,30/09/17,H,M'gladbach,58,bundesliga
+Mainz,30/09/17,D,Wolfsburg,59,bundesliga
+RB Leipzig,01/10/17,A,FC Koln,60,bundesliga
+Hoffenheim,01/10/17,D,Freiburg,61,bundesliga
+Bayern Munich,01/10/17,A,Hertha,62,bundesliga
+FC Koln,13/10/17,H,Stuttgart,63,bundesliga
+Freiburg,14/10/17,H,Bayern Munich,64,bundesliga
+RB Leipzig,14/10/17,D,Dortmund,65,bundesliga
+Ein Frankfurt,14/10/17,D,Hannover,66,bundesliga
+Schalke 04,14/10/17,A,Hertha,67,bundesliga
+Augsburg,14/10/17,D,Hoffenheim,68,bundesliga
+Hamburg,14/10/17,H,Mainz,69,bundesliga
+Wolfsburg,15/10/17,H,Leverkusen,70,bundesliga
+M'gladbach,15/10/17,A,Werder Bremen,71,bundesliga
+Mainz,20/10/17,H,Schalke 04,72,bundesliga
+Hannover,21/10/17,H,Augsburg,73,bundesliga
+Dortmund,21/10/17,A,Ein Frankfurt,74,bundesliga
+Bayern Munich,21/10/17,D,Hamburg,75,bundesliga
+Leverkusen,21/10/17,D,M'gladbach,76,bundesliga
+Stuttgart,21/10/17,H,RB Leipzig,77,bundesliga
+Werder Bremen,22/10/17,H,FC Koln,78,bundesliga
+Hertha,22/10/17,H,Freiburg,79,bundesliga
+Hoffenheim,22/10/17,D,Wolfsburg,80,bundesliga
+Ein Frankfurt,27/10/17,A,Mainz,81,bundesliga
+RB Leipzig,28/10/17,H,Bayern Munich,82,bundesliga
+Dortmund,28/10/17,H,Hannover,83,bundesliga
+Hamburg,28/10/17,H,Hertha,84,bundesliga
+M'gladbach,28/10/17,H,Hoffenheim,85,bundesliga
+FC Koln,28/10/17,D,Leverkusen,86,bundesliga
+Wolfsburg,28/10/17,H,Schalke 04,87,bundesliga
+Freiburg,29/10/17,H,Stuttgart,88,bundesliga
+Augsburg,29/10/17,A,Werder Bremen,89,bundesliga
+Werder Bremen,03/11/17,D,Ein Frankfurt,90,bundesliga
+Leverkusen,04/11/17,D,Augsburg,91,bundesliga
+Bayern Munich,04/11/17,A,Dortmund,92,bundesliga
+Schalke 04,04/11/17,D,Freiburg,93,bundesliga
+Stuttgart,04/11/17,H,Hamburg,94,bundesliga
+Mainz,04/11/17,A,M'gladbach,95,bundesliga
+Hannover,04/11/17,H,RB Leipzig,96,bundesliga
+Hoffenheim,05/11/17,A,FC Koln,97,bundesliga
+Hertha,05/11/17,H,Wolfsburg,98,bundesliga
+Dortmund,17/11/17,A,Stuttgart,99,bundesliga
+Augsburg,18/11/17,H,Bayern Munich,100,bundesliga
+M'gladbach,18/11/17,A,Hertha,101,bundesliga
+Ein Frankfurt,18/11/17,D,Hoffenheim,102,bundesliga
+RB Leipzig,18/11/17,D,Leverkusen,103,bundesliga
+FC Koln,18/11/17,H,Mainz,104,bundesliga
+Freiburg,18/11/17,H,Wolfsburg,105,bundesliga
+Hamburg,19/11/17,H,Schalke 04,106,bundesliga
+Hannover,19/11/17,H,Werder Bremen,107,bundesliga
+Stuttgart,24/11/17,A,Hannover,108,bundesliga
+Wolfsburg,25/11/17,D,Augsburg,109,bundesliga
+Schalke 04,25/11/17,H,Dortmund,110,bundesliga
+Leverkusen,25/11/17,D,Ein Frankfurt,111,bundesliga
+Mainz,25/11/17,D,Freiburg,112,bundesliga
+Bayern Munich,25/11/17,H,M'gladbach,113,bundesliga
+Werder Bremen,25/11/17,H,RB Leipzig,114,bundesliga
+Hertha,26/11/17,A,FC Koln,115,bundesliga
+Hoffenheim,26/11/17,H,Hamburg,116,bundesliga
+Hamburg,01/12/17,D,Freiburg,117,bundesliga
+Hannover,02/12/17,H,Bayern Munich,118,bundesliga
+RB Leipzig,02/12/17,H,Hoffenheim,119,bundesliga
+Dortmund,02/12/17,H,Leverkusen,120,bundesliga
+Augsburg,02/12/17,A,Mainz,121,bundesliga
+FC Koln,02/12/17,H,Schalke 04,122,bundesliga
+Stuttgart,02/12/17,H,Werder Bremen,123,bundesliga
+Ein Frankfurt,03/12/17,D,Hertha,124,bundesliga
+M'gladbach,03/12/17,H,Wolfsburg,125,bundesliga
+Leverkusen,08/12/17,A,Stuttgart,126,bundesliga
+Werder Bremen,09/12/17,D,Dortmund,127,bundesliga
+Bayern Munich,09/12/17,A,Ein Frankfurt,128,bundesliga
+Wolfsburg,09/12/17,D,Hamburg,129,bundesliga
+Schalke 04,09/12/17,H,M'gladbach,130,bundesliga
+Mainz,09/12/17,H,RB Leipzig,131,bundesliga
+Hertha,10/12/17,D,Augsburg,132,bundesliga
+Freiburg,10/12/17,H,FC Koln,133,bundesliga
+Hoffenheim,10/12/17,D,Hannover,134,bundesliga
+M'gladbach,12/12/17,H,Freiburg,135,bundesliga
+Ein Frankfurt,12/12/17,A,Hamburg,136,bundesliga
+Dortmund,12/12/17,A,Mainz,137,bundesliga
+RB Leipzig,12/12/17,H,Wolfsburg,138,bundesliga
+FC Koln,13/12/17,H,Bayern Munich,139,bundesliga
+Hannover,13/12/17,H,Hertha,140,bundesliga
+Stuttgart,13/12/17,H,Hoffenheim,141,bundesliga
+Werder Bremen,13/12/17,H,Leverkusen,142,bundesliga
+Augsburg,13/12/17,H,Schalke 04,143,bundesliga
+Hamburg,15/12/17,H,M'gladbach,144,bundesliga
+Freiburg,16/12/17,D,Augsburg,145,bundesliga
+Hoffenheim,16/12/17,A,Dortmund,146,bundesliga
+Schalke 04,16/12/17,H,Ein Frankfurt,147,bundesliga
+Wolfsburg,16/12/17,D,FC Koln,148,bundesliga
+Bayern Munich,16/12/17,A,Stuttgart,149,bundesliga
+Mainz,16/12/17,H,Werder Bremen,150,bundesliga
+Leverkusen,17/12/17,A,Hannover,151,bundesliga
+Hertha,17/12/17,A,RB Leipzig,152,bundesliga
+Bayern Munich,12/01/18,A,Leverkusen,153,bundesliga
+Hamburg,13/01/18,H,Augsburg,154,bundesliga
+Freiburg,13/01/18,H,Ein Frankfurt,155,bundesliga
+Mainz,13/01/18,H,Hannover,156,bundesliga
+Schalke 04,13/01/18,H,RB Leipzig,157,bundesliga
+Hertha,13/01/18,H,Stuttgart,158,bundesliga
+Hoffenheim,13/01/18,D,Werder Bremen,159,bundesliga
+Wolfsburg,14/01/18,D,Dortmund,160,bundesliga
+M'gladbach,14/01/18,D,FC Koln,161,bundesliga
+Dortmund,19/01/18,D,Hertha,162,bundesliga
+RB Leipzig,20/01/18,D,Freiburg,163,bundesliga
+FC Koln,20/01/18,A,Hamburg,164,bundesliga
+Leverkusen,20/01/18,A,Hoffenheim,165,bundesliga
+Stuttgart,20/01/18,H,Mainz,166,bundesliga
+Augsburg,20/01/18,H,M'gladbach,167,bundesliga
+Ein Frankfurt,20/01/18,A,Wolfsburg,168,bundesliga
+Werder Bremen,21/01/18,H,Bayern Munich,169,bundesliga
+Hannover,21/01/18,H,Schalke 04,170,bundesliga
+M'gladbach,26/01/18,H,Ein Frankfurt,171,bundesliga
+Hoffenheim,27/01/18,H,Bayern Munich,172,bundesliga
+Freiburg,27/01/18,H,Dortmund,173,bundesliga
+Augsburg,27/01/18,H,FC Koln,174,bundesliga
+Hamburg,27/01/18,H,RB Leipzig,175,bundesliga
+Schalke 04,27/01/18,A,Stuttgart,176,bundesliga
+Hertha,27/01/18,H,Werder Bremen,177,bundesliga
+Wolfsburg,28/01/18,D,Hannover,178,bundesliga
+Mainz,28/01/18,D,Leverkusen,179,bundesliga
+Dortmund,02/02/18,A,FC Koln,180,bundesliga
+Leverkusen,03/02/18,D,Freiburg,181,bundesliga
+Hoffenheim,03/02/18,A,Hertha,182,bundesliga
+Bayern Munich,03/02/18,A,Mainz,183,bundesliga
+RB Leipzig,03/02/18,D,M'gladbach,184,bundesliga
+Werder Bremen,03/02/18,H,Schalke 04,185,bundesliga
+Stuttgart,03/02/18,H,Wolfsburg,186,bundesliga
+Ein Frankfurt,04/02/18,H,Augsburg,187,bundesliga
+Hannover,04/02/18,A,Hamburg,188,bundesliga
+Augsburg,09/02/18,H,RB Leipzig,189,bundesliga
+Schalke 04,10/02/18,H,Bayern Munich,190,bundesliga
+Hamburg,10/02/18,H,Dortmund,191,bundesliga
+FC Koln,10/02/18,H,Ein Frankfurt,192,bundesliga
+Freiburg,10/02/18,H,Hannover,193,bundesliga
+Mainz,10/02/18,H,Hoffenheim,194,bundesliga
+Hertha,10/02/18,A,Leverkusen,195,bundesliga
+M'gladbach,11/02/18,H,Stuttgart,196,bundesliga
+Wolfsburg,11/02/18,H,Werder Bremen,197,bundesliga
+Mainz,16/02/18,A,Hertha,198,bundesliga
+Hannover,17/02/18,A,FC Koln,199,bundesliga
+Werder Bremen,17/02/18,H,Freiburg,200,bundesliga
+Leverkusen,17/02/18,A,Hamburg,201,bundesliga
+Hoffenheim,17/02/18,H,Schalke 04,202,bundesliga
+Bayern Munich,17/02/18,D,Wolfsburg,203,bundesliga
+Stuttgart,18/02/18,A,Augsburg,204,bundesliga
+Dortmund,18/02/18,D,M'gladbach,205,bundesliga
+RB Leipzig,19/02/18,H,Ein Frankfurt,206,bundesliga
+Wolfsburg,23/02/18,D,Mainz,207,bundesliga
+Hertha,24/02/18,H,Bayern Munich,208,bundesliga
+M'gladbach,24/02/18,D,Hannover,209,bundesliga
+Freiburg,24/02/18,D,Hoffenheim,210,bundesliga
+Ein Frankfurt,24/02/18,H,Stuttgart,211,bundesliga
+Hamburg,24/02/18,D,Werder Bremen,212,bundesliga
+Schalke 04,25/02/18,A,Leverkusen,213,bundesliga
+FC Koln,25/02/18,H,RB Leipzig,214,bundesliga
+Augsburg,26/02/18,H,Dortmund,215,bundesliga
+Werder Bremen,02/03/18,H,M'gladbach,216,bundesliga
+Hoffenheim,03/03/18,A,Augsburg,217,bundesliga
+Hannover,03/03/18,H,Ein Frankfurt,218,bundesliga
+Mainz,03/03/18,D,Hamburg,219,bundesliga
+Dortmund,03/03/18,D,RB Leipzig,220,bundesliga
+Hertha,03/03/18,H,Schalke 04,221,bundesliga
+Leverkusen,03/03/18,A,Wolfsburg,222,bundesliga
+Stuttgart,04/03/18,A,FC Koln,223,bundesliga
+Bayern Munich,04/03/18,A,Freiburg,224,bundesliga
+Schalke 04,09/03/18,D,Mainz,225,bundesliga
+Hamburg,10/03/18,H,Bayern Munich,226,bundesliga
+Augsburg,10/03/18,A,Hannover,227,bundesliga
+Freiburg,10/03/18,H,Hertha,228,bundesliga
+Wolfsburg,10/03/18,H,Hoffenheim,229,bundesliga
+M'gladbach,10/03/18,H,Leverkusen,230,bundesliga
+Ein Frankfurt,11/03/18,H,Dortmund,231,bundesliga
+RB Leipzig,11/03/18,D,Stuttgart,232,bundesliga
+FC Koln,12/03/18,H,Werder Bremen,233,bundesliga
+Stuttgart,16/03/18,A,Freiburg,234,bundesliga
+Werder Bremen,17/03/18,A,Augsburg,235,bundesliga
+Mainz,17/03/18,H,Ein Frankfurt,236,bundesliga
+Hertha,17/03/18,A,Hamburg,237,bundesliga
+Hoffenheim,17/03/18,D,M'gladbach,238,bundesliga
+Schalke 04,17/03/18,D,Wolfsburg,239,bundesliga
+Hannover,18/03/18,H,Dortmund,240,bundesliga
+Leverkusen,18/03/18,H,FC Koln,241,bundesliga
+Bayern Munich,18/03/18,D,RB Leipzig,242,bundesliga
+Dortmund,31/03/18,H,Bayern Munich,243,bundesliga
+RB Leipzig,31/03/18,A,Hannover,244,bundesliga
+Wolfsburg,31/03/18,H,Hertha,245,bundesliga
+FC Koln,31/03/18,H,Hoffenheim,246,bundesliga
+Augsburg,31/03/18,D,Leverkusen,247,bundesliga
+Freiburg,31/03/18,H,Schalke 04,248,bundesliga
+Hamburg,31/03/18,H,Stuttgart,249,bundesliga
+M'gladbach,01/04/18,D,Mainz,250,bundesliga
+Ein Frankfurt,01/04/18,H,Werder Bremen,251,bundesliga
+Werder Bremen,06/04/18,H,Hannover,252,bundesliga
+Bayern Munich,07/04/18,A,Augsburg,253,bundesliga
+Mainz,07/04/18,H,FC Koln,254,bundesliga
+Wolfsburg,07/04/18,A,Freiburg,255,bundesliga
+Schalke 04,07/04/18,A,Hamburg,256,bundesliga
+Hertha,07/04/18,A,M'gladbach,257,bundesliga
+Stuttgart,08/04/18,H,Dortmund,258,bundesliga
+Hoffenheim,08/04/18,D,Ein Frankfurt,259,bundesliga
+Leverkusen,09/04/18,A,RB Leipzig,260,bundesliga
+Augsburg,13/04/18,D,Wolfsburg,261,bundesliga
+M'gladbach,14/04/18,H,Bayern Munich,262,bundesliga
+FC Koln,14/04/18,D,Hertha,263,bundesliga
+Hamburg,14/04/18,H,Hoffenheim,264,bundesliga
+Ein Frankfurt,14/04/18,H,Leverkusen,265,bundesliga
+Hannover,14/04/18,H,Stuttgart,266,bundesliga
+Dortmund,15/04/18,D,Schalke 04,267,bundesliga
+RB Leipzig,15/04/18,H,Werder Bremen,268,bundesliga
+Freiburg,16/04/18,H,Mainz,269,bundesliga
+Wolfsburg,20/04/18,H,M'gladbach,270,bundesliga
+Leverkusen,21/04/18,H,Dortmund,271,bundesliga
+Hertha,21/04/18,D,Ein Frankfurt,272,bundesliga
+Freiburg,21/04/18,D,Hamburg,273,bundesliga
+Bayern Munich,21/04/18,A,Hannover,274,bundesliga
+Hoffenheim,21/04/18,A,RB Leipzig,275,bundesliga
+Werder Bremen,21/04/18,H,Stuttgart,276,bundesliga
+Mainz,22/04/18,H,Augsburg,277,bundesliga
+Schalke 04,22/04/18,A,FC Koln,278,bundesliga
+Hannover,27/04/18,H,Hoffenheim,279,bundesliga
+Ein Frankfurt,28/04/18,H,Bayern Munich,280,bundesliga
+FC Koln,28/04/18,H,Freiburg,281,bundesliga
+Augsburg,28/04/18,D,Hertha,282,bundesliga
+Stuttgart,28/04/18,H,Leverkusen,283,bundesliga
+M'gladbach,28/04/18,D,Schalke 04,284,bundesliga
+Hamburg,28/04/18,A,Wolfsburg,285,bundesliga
+RB Leipzig,29/04/18,H,Mainz,286,bundesliga
+Dortmund,29/04/18,D,Werder Bremen,287,bundesliga
+Schalke 04,05/05/18,A,Augsburg,288,bundesliga
+Mainz,05/05/18,A,Dortmund,289,bundesliga
+Hamburg,05/05/18,H,Ein Frankfurt,290,bundesliga
+Bayern Munich,05/05/18,A,FC Koln,291,bundesliga
+Hertha,05/05/18,H,Hannover,292,bundesliga
+Freiburg,05/05/18,H,M'gladbach,293,bundesliga
+Wolfsburg,05/05/18,H,RB Leipzig,294,bundesliga
+Hoffenheim,05/05/18,H,Stuttgart,295,bundesliga
+Leverkusen,05/05/18,D,Werder Bremen,296,bundesliga
+Stuttgart,12/05/18,A,Bayern Munich,297,bundesliga
+Augsburg,12/05/18,D,Freiburg,298,bundesliga
+M'gladbach,12/05/18,D,Hamburg,299,bundesliga
+RB Leipzig,12/05/18,A,Hertha,300,bundesliga
+Dortmund,12/05/18,H,Hoffenheim,301,bundesliga
+Hannover,12/05/18,H,Leverkusen,302,bundesliga
+Werder Bremen,12/05/18,D,Mainz,303,bundesliga
+Ein Frankfurt,12/05/18,H,Schalke 04,304,bundesliga
+FC Koln,12/05/18,H,Wolfsburg,305,bundesliga
+Alaves,18/08/17,H,Leganes,0,la-liga
+Las Palmas,18/08/17,H,Valencia,1,la-liga
+Sociedad,19/08/17,D,Celta,2,la-liga
+Ath Madrid,19/08/17,H,Girona,3,la-liga
+Espanol,19/08/17,A,Sevilla,4,la-liga
+Getafe,20/08/17,H,Ath Bilbao,5,la-liga
+Betis,20/08/17,H,Barcelona,6,la-liga
+Real Madrid,20/08/17,A,La Coruna,7,la-liga
+Villarreal,21/08/17,D,Levante,8,la-liga
+Eibar,21/08/17,D,Malaga,9,la-liga
+Celta,25/08/17,D,Betis,10,la-liga
+Villarreal,25/08/17,H,Sociedad,11,la-liga
+Barcelona,26/08/17,A,Alaves,12,la-liga
+Malaga,26/08/17,H,Girona,13,la-liga
+Ath Madrid,26/08/17,A,Las Palmas,14,la-liga
+La Coruna,26/08/17,A,Levante,15,la-liga
+Ath Bilbao,27/08/17,A,Eibar,16,la-liga
+Leganes,27/08/17,A,Espanol,17,la-liga
+Sevilla,27/08/17,A,Getafe,18,la-liga
+Valencia,27/08/17,D,Real Madrid,19,la-liga
+Getafe,08/09/17,H,Leganes,20,la-liga
+Espanol,09/09/17,H,Barcelona,21,la-liga
+Levante,09/09/17,H,Real Madrid,22,la-liga
+Eibar,09/09/17,H,Sevilla,23,la-liga
+Ath Madrid,09/09/17,A,Valencia,24,la-liga
+Girona,10/09/17,H,Ath Bilbao,25,la-liga
+Alaves,10/09/17,D,Celta,26,la-liga
+Sociedad,10/09/17,A,La Coruna,27,la-liga
+Betis,10/09/17,H,Villarreal,28,la-liga
+Las Palmas,11/09/17,A,Malaga,29,la-liga
+Leganes,15/09/17,D,Eibar,30,la-liga
+Malaga,16/09/17,H,Ath Madrid,31,la-liga
+La Coruna,16/09/17,H,Betis,32,la-liga
+Barcelona,16/09/17,A,Getafe,33,la-liga
+Valencia,16/09/17,A,Levante,34,la-liga
+Villarreal,17/09/17,A,Alaves,35,la-liga
+Sevilla,17/09/17,A,Girona,36,la-liga
+Ath Bilbao,17/09/17,D,Las Palmas,37,la-liga
+Real Madrid,17/09/17,A,Sociedad,38,la-liga
+Celta,18/09/17,H,Espanol,39,la-liga
+Eibar,19/09/17,H,Barcelona,40,la-liga
+Malaga,19/09/17,H,Valencia,41,la-liga
+Ath Madrid,20/09/17,A,Ath Bilbao,42,la-liga
+Alaves,20/09/17,H,La Coruna,43,la-liga
+Girona,20/09/17,D,Leganes,44,la-liga
+Betis,20/09/17,D,Real Madrid,45,la-liga
+Las Palmas,20/09/17,H,Sevilla,46,la-liga
+Getafe,21/09/17,H,Celta,47,la-liga
+Sociedad,21/09/17,H,Levante,48,la-liga
+Espanol,21/09/17,H,Villarreal,49,la-liga
+Real Madrid,23/09/17,A,Alaves,50,la-liga
+Sevilla,23/09/17,H,Ath Madrid,51,la-liga
+Barcelona,23/09/17,A,Girona,52,la-liga
+Ath Bilbao,23/09/17,A,Malaga,53,la-liga
+Celta,24/09/17,A,Eibar,54,la-liga
+La Coruna,24/09/17,H,Espanol,55,la-liga
+Villarreal,24/09/17,H,Getafe,56,la-liga
+Leganes,24/09/17,D,Las Palmas,57,la-liga
+Valencia,24/09/17,D,Sociedad,58,la-liga
+Levante,25/09/17,H,Betis,59,la-liga
+Girona,29/09/17,H,Celta,60,la-liga
+Getafe,30/09/17,H,La Coruna,61,la-liga
+Ath Madrid,30/09/17,D,Leganes,62,la-liga
+Alaves,30/09/17,A,Levante,63,la-liga
+Malaga,30/09/17,H,Sevilla,64,la-liga
+Las Palmas,01/10/17,H,Barcelona,65,la-liga
+Espanol,01/10/17,D,Real Madrid,66,la-liga
+Betis,01/10/17,D,Sociedad,67,la-liga
+Ath Bilbao,01/10/17,H,Valencia,68,la-liga
+Eibar,01/10/17,H,Villarreal,69,la-liga
+Levante,13/10/17,H,Espanol,70,la-liga
+Sociedad,14/10/17,A,Alaves,71,la-liga
+Sevilla,14/10/17,A,Ath Bilbao,72,la-liga
+Barcelona,14/10/17,H,Ath Madrid,73,la-liga
+Real Madrid,14/10/17,A,Getafe,74,la-liga
+Valencia,15/10/17,A,Betis,75,la-liga
+La Coruna,15/10/17,D,Eibar,76,la-liga
+Villarreal,15/10/17,A,Girona,77,la-liga
+Leganes,15/10/17,A,Malaga,78,la-liga
+Celta,16/10/17,A,Las Palmas,79,la-liga
+Malaga,21/10/17,H,Barcelona,80,la-liga
+Alaves,21/10/17,H,Betis,81,la-liga
+Getafe,21/10/17,A,Levante,82,la-liga
+Sevilla,21/10/17,H,Valencia,83,la-liga
+Ath Madrid,22/10/17,D,Celta,84,la-liga
+Ath Bilbao,22/10/17,D,Leganes,85,la-liga
+Eibar,22/10/17,H,Real Madrid,86,la-liga
+Las Palmas,22/10/17,H,Villarreal,87,la-liga
+Girona,23/10/17,A,La Coruna,88,la-liga
+Espanol,23/10/17,D,Sociedad,89,la-liga
+Valencia,28/10/17,A,Alaves,90,la-liga
+Barcelona,28/10/17,A,Ath Bilbao,91,la-liga
+Villarreal,28/10/17,D,Ath Madrid,92,la-liga
+Leganes,28/10/17,H,Sevilla,93,la-liga
+Levante,29/10/17,A,Eibar,94,la-liga
+Sociedad,29/10/17,A,Getafe,95,la-liga
+Real Madrid,29/10/17,A,Girona,96,la-liga
+Celta,29/10/17,H,Malaga,97,la-liga
+Betis,30/10/17,D,Espanol,98,la-liga
+La Coruna,30/10/17,D,Las Palmas,99,la-liga
+Getafe,03/11/17,A,Betis,100,la-liga
+Espanol,04/11/17,H,Alaves,101,la-liga
+Sevilla,04/11/17,H,Barcelona,102,la-liga
+Ath Madrid,04/11/17,D,La Coruna,103,la-liga
+Leganes,04/11/17,H,Valencia,104,la-liga
+Ath Bilbao,05/11/17,H,Celta,105,la-liga
+Girona,05/11/17,H,Levante,106,la-liga
+Las Palmas,05/11/17,H,Real Madrid,107,la-liga
+Eibar,05/11/17,H,Sociedad,108,la-liga
+Malaga,05/11/17,D,Villarreal,109,la-liga
+Sociedad,17/11/17,A,Girona,110,la-liga
+Real Madrid,18/11/17,D,Ath Madrid,111,la-liga
+Alaves,18/11/17,H,Getafe,112,la-liga
+Barcelona,18/11/17,A,Leganes,113,la-liga
+Celta,18/11/17,H,Sevilla,114,la-liga
+Villarreal,19/11/17,A,Ath Bilbao,115,la-liga
+Valencia,19/11/17,D,Espanol,116,la-liga
+Levante,19/11/17,H,Las Palmas,117,la-liga
+La Coruna,19/11/17,D,Malaga,118,la-liga
+Betis,20/11/17,H,Eibar,119,la-liga
+Leganes,24/11/17,H,Celta,120,la-liga
+Eibar,25/11/17,A,Alaves,121,la-liga
+Girona,25/11/17,A,Betis,122,la-liga
+Ath Madrid,25/11/17,A,Levante,123,la-liga
+Malaga,25/11/17,H,Real Madrid,124,la-liga
+Ath Bilbao,26/11/17,D,La Coruna,125,la-liga
+Las Palmas,26/11/17,A,Sociedad,126,la-liga
+Barcelona,26/11/17,A,Valencia,127,la-liga
+Sevilla,26/11/17,D,Villarreal,128,la-liga
+Getafe,27/11/17,H,Espanol,129,la-liga
+Levante,01/12/17,D,Malaga,130,la-liga
+Real Madrid,02/12/17,D,Ath Bilbao,131,la-liga
+Sociedad,02/12/17,H,Ath Madrid,132,la-liga
+Celta,02/12/17,H,Barcelona,133,la-liga
+La Coruna,02/12/17,H,Sevilla,134,la-liga
+Espanol,03/12/17,H,Eibar,135,la-liga
+Valencia,03/12/17,A,Getafe,136,la-liga
+Betis,03/12/17,H,Las Palmas,137,la-liga
+Villarreal,03/12/17,D,Leganes,138,la-liga
+Alaves,04/12/17,H,Girona,139,la-liga
+Las Palmas,08/12/17,H,Alaves,140,la-liga
+Eibar,09/12/17,D,Getafe,141,la-liga
+Leganes,09/12/17,H,La Coruna,142,la-liga
+Sevilla,09/12/17,H,Real Madrid,143,la-liga
+Celta,09/12/17,H,Valencia,144,la-liga
+Ath Madrid,10/12/17,D,Betis,145,la-liga
+Ath Bilbao,10/12/17,A,Levante,146,la-liga
+Malaga,10/12/17,A,Sociedad,147,la-liga
+Barcelona,10/12/17,D,Villarreal,148,la-liga
+Girona,11/12/17,A,Espanol,149,la-liga
+Levante,15/12/17,H,Sevilla,150,la-liga
+Sociedad,16/12/17,D,Ath Bilbao,151,la-liga
+Alaves,16/12/17,H,Ath Madrid,152,la-liga
+Valencia,16/12/17,D,Eibar,153,la-liga
+La Coruna,17/12/17,H,Barcelona,154,la-liga
+Villarreal,17/12/17,A,Celta,155,la-liga
+Getafe,17/12/17,H,Girona,156,la-liga
+Espanol,17/12/17,A,Las Palmas,157,la-liga
+Betis,18/12/17,A,Malaga,158,la-liga
+Leganes,19/12/17,D,Levante,159,la-liga
+Las Palmas,20/12/17,H,Getafe,160,la-liga
+Sevilla,20/12/17,D,Sociedad,161,la-liga
+Malaga,21/12/17,H,Alaves,162,la-liga
+Girona,21/12/17,H,Eibar,163,la-liga
+Ath Bilbao,22/12/17,A,Betis,164,la-liga
+Ath Madrid,22/12/17,D,Espanol,165,la-liga
+Celta,23/12/17,A,La Coruna,166,la-liga
+Barcelona,23/12/17,A,Real Madrid,167,la-liga
+Villarreal,23/12/17,D,Valencia,168,la-liga
+Getafe,06/01/18,H,Ath Madrid,169,la-liga
+Eibar,06/01/18,H,Las Palmas,170,la-liga
+Betis,06/01/18,D,Sevilla,171,la-liga
+Girona,06/01/18,H,Valencia,172,la-liga
+Alaves,07/01/18,H,Ath Bilbao,173,la-liga
+Levante,07/01/18,H,Barcelona,174,la-liga
+Real Madrid,07/01/18,A,Celta,175,la-liga
+Sociedad,07/01/18,D,Leganes,176,la-liga
+La Coruna,07/01/18,H,Villarreal,177,la-liga
+Espanol,08/01/18,A,Malaga,178,la-liga
+Malaga,12/01/18,H,Getafe,179,la-liga
+Ath Madrid,13/01/18,A,Eibar,180,la-liga
+Las Palmas,13/01/18,H,Girona,181,la-liga
+Valencia,13/01/18,A,La Coruna,182,la-liga
+Villarreal,13/01/18,D,Real Madrid,183,la-liga
+Sevilla,14/01/18,D,Alaves,184,la-liga
+Ath Bilbao,14/01/18,D,Espanol,185,la-liga
+Celta,14/01/18,A,Levante,186,la-liga
+Barcelona,14/01/18,D,Sociedad,187,la-liga
+Leganes,15/01/18,H,Betis,188,la-liga
+Ath Bilbao,19/01/18,A,Getafe,189,la-liga
+Girona,20/01/18,H,Ath Madrid,190,la-liga
+Sevilla,20/01/18,A,Espanol,191,la-liga
+Valencia,20/01/18,D,Las Palmas,192,la-liga
+Levante,20/01/18,H,Villarreal,193,la-liga
+Leganes,21/01/18,D,Alaves,194,la-liga
+Barcelona,21/01/18,A,Betis,195,la-liga
+La Coruna,21/01/18,H,Real Madrid,196,la-liga
+Celta,21/01/18,D,Sociedad,197,la-liga
+Malaga,22/01/18,A,Eibar,198,la-liga
+Eibar,26/01/18,D,Ath Bilbao,199,la-liga
+Levante,27/01/18,H,La Coruna,200,la-liga
+Girona,27/01/18,D,Malaga,201,la-liga
+Real Madrid,27/01/18,A,Valencia,202,la-liga
+Sociedad,27/01/18,H,Villarreal,203,la-liga
+Las Palmas,28/01/18,H,Ath Madrid,204,la-liga
+Alaves,28/01/18,H,Barcelona,205,la-liga
+Espanol,28/01/18,H,Leganes,206,la-liga
+Getafe,28/01/18,H,Sevilla,207,la-liga
+Betis,29/01/18,H,Celta,208,la-liga
+La Coruna,02/02/18,H,Sociedad,209,la-liga
+Celta,03/02/18,H,Alaves,210,la-liga
+Villarreal,03/02/18,H,Betis,211,la-liga
+Sevilla,03/02/18,H,Eibar,212,la-liga
+Real Madrid,03/02/18,A,Levante,213,la-liga
+Valencia,04/02/18,H,Ath Madrid,214,la-liga
+Barcelona,04/02/18,D,Espanol,215,la-liga
+Leganes,04/02/18,D,Getafe,216,la-liga
+Ath Bilbao,04/02/18,H,Girona,217,la-liga
+Malaga,05/02/18,D,Las Palmas,218,la-liga
+Las Palmas,09/02/18,H,Ath Bilbao,219,la-liga
+Eibar,10/02/18,A,Leganes,220,la-liga
+Ath Madrid,10/02/18,A,Malaga,221,la-liga
+Sociedad,10/02/18,H,Real Madrid,222,la-liga
+Alaves,10/02/18,A,Villarreal,223,la-liga
+Getafe,11/02/18,H,Barcelona,224,la-liga
+Espanol,11/02/18,D,Celta,225,la-liga
+Girona,11/02/18,D,Sevilla,226,la-liga
+Levante,11/02/18,H,Valencia,227,la-liga
+Betis,12/02/18,D,La Coruna,228,la-liga
+Leganes,16/02/18,H,Girona,229,la-liga
+La Coruna,17/02/18,D,Alaves,230,la-liga
+Barcelona,17/02/18,A,Eibar,231,la-liga
+Sevilla,17/02/18,A,Las Palmas,232,la-liga
+Valencia,17/02/18,D,Malaga,233,la-liga
+Ath Bilbao,18/02/18,H,Ath Madrid,234,la-liga
+Real Madrid,18/02/18,A,Betis,235,la-liga
+Villarreal,18/02/18,A,Espanol,236,la-liga
+Levante,18/02/18,H,Sociedad,237,la-liga
+Celta,19/02/18,H,Getafe,238,la-liga
+Real Madrid,21/02/18,A,Leganes,239,la-liga
+Espanol,23/02/18,D,La Coruna,240,la-liga
+Girona,24/02/18,H,Barcelona,241,la-liga
+Eibar,24/02/18,H,Celta,242,la-liga
+Las Palmas,24/02/18,D,Leganes,243,la-liga
+Alaves,24/02/18,H,Real Madrid,244,la-liga
+Malaga,25/02/18,H,Ath Bilbao,245,la-liga
+Ath Madrid,25/02/18,A,Sevilla,246,la-liga
+Sociedad,25/02/18,H,Valencia,247,la-liga
+Getafe,25/02/18,H,Villarreal,248,la-liga
+Betis,26/02/18,A,Levante,249,la-liga
+Real Madrid,27/02/18,D,Espanol,250,la-liga
+Celta,27/02/18,H,Girona,251,la-liga
+Valencia,28/02/18,A,Ath Bilbao,252,la-liga
+Leganes,28/02/18,H,Ath Madrid,253,la-liga
+Villarreal,28/02/18,D,Eibar,254,la-liga
+La Coruna,28/02/18,H,Getafe,255,la-liga
+Sevilla,28/02/18,A,Malaga,256,la-liga
+Levante,01/03/18,H,Alaves,257,la-liga
+Sociedad,01/03/18,D,Betis,258,la-liga
+Barcelona,01/03/18,A,Las Palmas,259,la-liga
+Eibar,03/03/18,D,La Coruna,260,la-liga
+Malaga,03/03/18,D,Leganes,261,la-liga
+Getafe,03/03/18,H,Real Madrid,262,la-liga
+Ath Bilbao,03/03/18,H,Sevilla,263,la-liga
+Girona,03/03/18,A,Villarreal,264,la-liga
+Ath Madrid,04/03/18,H,Barcelona,265,la-liga
+Espanol,04/03/18,D,Levante,266,la-liga
+Alaves,04/03/18,H,Sociedad,267,la-liga
+Betis,04/03/18,H,Valencia,268,la-liga
+Las Palmas,05/03/18,H,Celta,269,la-liga
+La Coruna,09/03/18,H,Girona,270,la-liga
+Real Madrid,10/03/18,A,Eibar,271,la-liga
+Levante,10/03/18,H,Getafe,272,la-liga
+Barcelona,10/03/18,A,Malaga,273,la-liga
+Valencia,10/03/18,A,Sevilla,274,la-liga
+Leganes,11/03/18,H,Ath Bilbao,275,la-liga
+Celta,11/03/18,H,Ath Madrid,276,la-liga
+Sociedad,11/03/18,A,Espanol,277,la-liga
+Villarreal,11/03/18,A,Las Palmas,278,la-liga
+Betis,12/03/18,A,Alaves,279,la-liga
+Eibar,16/03/18,H,Levante,280,la-liga
+Espanol,17/03/18,H,Betis,281,la-liga
+Las Palmas,17/03/18,D,La Coruna,282,la-liga
+Getafe,17/03/18,A,Sociedad,283,la-liga
+Alaves,17/03/18,H,Valencia,284,la-liga
+Ath Bilbao,18/03/18,H,Barcelona,285,la-liga
+Malaga,18/03/18,H,Celta,286,la-liga
+Sevilla,18/03/18,H,Leganes,287,la-liga
+Girona,18/03/18,H,Real Madrid,288,la-liga
+Ath Madrid,18/03/18,D,Villarreal,289,la-liga
+Celta,31/03/18,D,Ath Bilbao,290,la-liga
+Levante,31/03/18,H,Girona,291,la-liga
+Real Madrid,31/03/18,A,Las Palmas,292,la-liga
+Barcelona,31/03/18,A,Sevilla,293,la-liga
+La Coruna,01/04/18,H,Ath Madrid,294,la-liga
+Sociedad,01/04/18,D,Eibar,295,la-liga
+Alaves,01/04/18,D,Espanol,296,la-liga
+Valencia,01/04/18,D,Leganes,297,la-liga
+Villarreal,01/04/18,H,Malaga,298,la-liga
+Betis,02/04/18,H,Getafe,299,la-liga
+Malaga,06/04/18,D,La Coruna,300,la-liga
+Getafe,07/04/18,D,Alaves,301,la-liga
+Leganes,07/04/18,H,Barcelona,302,la-liga
+Eibar,07/04/18,H,Betis,303,la-liga
+Sevilla,07/04/18,H,Celta,304,la-liga
+Las Palmas,08/04/18,D,Levante,305,la-liga
+Ath Madrid,08/04/18,D,Real Madrid,306,la-liga
+Girona,08/04/18,H,Sociedad,307,la-liga
+Espanol,08/04/18,H,Valencia,308,la-liga
+Ath Bilbao,09/04/18,A,Villarreal,309,la-liga
+Betis,13/04/18,A,Girona,310,la-liga
+La Coruna,14/04/18,A,Ath Bilbao,311,la-liga
+Valencia,14/04/18,H,Barcelona,312,la-liga
+Sociedad,14/04/18,A,Las Palmas,313,la-liga
+Celta,14/04/18,D,Leganes,314,la-liga
+Villarreal,14/04/18,D,Sevilla,315,la-liga
+Levante,15/04/18,H,Ath Madrid,316,la-liga
+Alaves,15/04/18,D,Eibar,317,la-liga
+Espanol,15/04/18,D,Getafe,318,la-liga
+Real Madrid,15/04/18,A,Malaga,319,la-liga
+Barcelona,17/04/18,D,Celta,320,la-liga
+Sevilla,17/04/18,D,La Coruna,321,la-liga
+Leganes,17/04/18,H,Villarreal,322,la-liga
+Eibar,18/04/18,D,Espanol,323,la-liga
+Ath Bilbao,18/04/18,D,Real Madrid,324,la-liga
+Getafe,18/04/18,A,Valencia,325,la-liga
+Girona,19/04/18,H,Alaves,326,la-liga
+Las Palmas,19/04/18,H,Betis,327,la-liga
+Malaga,19/04/18,D,Levante,328,la-liga
+Ath Madrid,19/04/18,H,Sociedad,329,la-liga
+La Coruna,20/04/18,A,Leganes,330,la-liga
+Valencia,21/04/18,A,Celta,331,la-liga
+Getafe,21/04/18,A,Eibar,332,la-liga
+Betis,22/04/18,A,Ath Madrid,333,la-liga
+Espanol,22/04/18,A,Girona,334,la-liga
+Alaves,22/04/18,A,Las Palmas,335,la-liga
+Sociedad,22/04/18,H,Malaga,336,la-liga
+Levante,23/04/18,A,Ath Bilbao,337,la-liga
+Sevilla,27/04/18,D,Levante,338,la-liga
+Las Palmas,28/04/18,H,Espanol,339,la-liga
+Leganes,28/04/18,H,Real Madrid,340,la-liga
+Ath Bilbao,28/04/18,H,Sociedad,341,la-liga
+Celta,28/04/18,H,Villarreal,342,la-liga
+Ath Madrid,29/04/18,D,Alaves,343,la-liga
+Girona,29/04/18,D,Getafe,344,la-liga
+Barcelona,29/04/18,A,La Coruna,345,la-liga
+Eibar,29/04/18,D,Valencia,346,la-liga
+Malaga,30/04/18,H,Betis,347,la-liga
+Sociedad,04/05/18,H,Sevilla,348,la-liga
+Betis,05/05/18,H,Ath Bilbao,349,la-liga
+La Coruna,05/05/18,H,Celta,350,la-liga
+Eibar,05/05/18,A,Girona,351,la-liga
+Valencia,05/05/18,D,Villarreal,352,la-liga
+Espanol,06/05/18,H,Ath Madrid,353,la-liga
+Real Madrid,06/05/18,D,Barcelona,354,la-liga
+Getafe,06/05/18,D,Las Palmas,355,la-liga
+Alaves,06/05/18,A,Malaga,356,la-liga
+Levante,07/05/18,D,Leganes,357,la-liga
+Villarreal,09/05/18,H,Barcelona,358,la-liga
+Real Madrid,09/05/18,H,Sevilla,359,la-liga
+Ath Bilbao,12/05/18,H,Alaves,360,la-liga
+Sevilla,12/05/18,H,Betis,361,la-liga
+Las Palmas,12/05/18,H,Eibar,362,la-liga
+Ath Madrid,12/05/18,A,Getafe,363,la-liga
+Valencia,12/05/18,D,Girona,364,la-liga
+Villarreal,12/05/18,A,La Coruna,365,la-liga
+Celta,12/05/18,H,Real Madrid,366,la-liga
+Leganes,12/05/18,H,Sociedad,367,la-liga
+Malaga,13/05/18,H,Espanol,368,la-liga
+Barcelona,13/05/18,H,Levante,369,la-liga
+Levante,19/05/18,H,Celta,370,la-liga
+Girona,19/05/18,A,Las Palmas,371,la-liga
+Betis,19/05/18,A,Leganes,372,la-liga
+Getafe,19/05/18,H,Malaga,373,la-liga
+Alaves,19/05/18,H,Sevilla,374,la-liga
+Real Madrid,19/05/18,A,Villarreal,375,la-liga
+Espanol,20/05/18,A,Ath Bilbao,376,la-liga
+Eibar,20/05/18,D,Ath Madrid,377,la-liga
+Sociedad,20/05/18,H,Barcelona,378,la-liga
+La Coruna,20/05/18,H,Valencia,379,la-liga
+Toulouse,04/08/17,H,Monaco,0,ligue-1
+Strasbourg,05/08/17,H,Lyon,1,ligue-1
+Guingamp,05/08/17,D,Metz,2,ligue-1
+Caen,05/08/17,D,Montpellier,3,ligue-1
+Amiens,05/08/17,H,Paris SG,4,ligue-1
+Nice,05/08/17,H,St Etienne,5,ligue-1
+Rennes,05/08/17,D,Troyes,6,ligue-1
+Bordeaux,06/08/17,H,Angers,7,ligue-1
+Nantes,06/08/17,D,Lille,8,ligue-1
+Dijon,06/08/17,H,Marseille,9,ligue-1
+Troyes,11/08/17,H,Nice,10,ligue-1
+Lyon,11/08/17,A,Rennes,11,ligue-1
+Angers,12/08/17,A,Amiens,12,ligue-1
+Metz,12/08/17,H,Bordeaux,13,ligue-1
+St Etienne,12/08/17,D,Caen,14,ligue-1
+Marseille,12/08/17,A,Nantes,15,ligue-1
+Montpellier,12/08/17,H,Toulouse,16,ligue-1
+Monaco,13/08/17,A,Dijon,17,ligue-1
+Paris SG,13/08/17,A,Guingamp,18,ligue-1
+Lille,13/08/17,H,Strasbourg,19,ligue-1
+Monaco,18/08/17,D,Metz,20,ligue-1
+Bordeaux,19/08/17,H,Lyon,21,ligue-1
+Strasbourg,19/08/17,D,Montpellier,22,ligue-1
+Guingamp,19/08/17,H,Nice,23,ligue-1
+Dijon,19/08/17,H,Rennes,24,ligue-1
+Amiens,19/08/17,H,St Etienne,25,ligue-1
+Nantes,19/08/17,H,Troyes,26,ligue-1
+Caen,20/08/17,D,Lille,27,ligue-1
+Angers,20/08/17,A,Marseille,28,ligue-1
+Toulouse,20/08/17,H,Paris SG,29,ligue-1
+St Etienne,25/08/17,H,Paris SG,30,ligue-1
+Nice,26/08/17,H,Amiens,31,ligue-1
+Troyes,26/08/17,H,Bordeaux,32,ligue-1
+Metz,26/08/17,D,Caen,33,ligue-1
+Montpellier,26/08/17,H,Dijon,34,ligue-1
+Lyon,26/08/17,D,Nantes,35,ligue-1
+Rennes,26/08/17,H,Toulouse,36,ligue-1
+Lille,27/08/17,D,Angers,37,ligue-1
+Strasbourg,27/08/17,H,Guingamp,38,ligue-1
+Marseille,27/08/17,H,Monaco,39,ligue-1
+Bordeaux,08/09/17,D,Lille,40,ligue-1
+Paris SG,08/09/17,A,Metz,41,ligue-1
+Dijon,09/09/17,D,Caen,42,ligue-1
+Nantes,09/09/17,D,Montpellier,43,ligue-1
+Monaco,09/09/17,H,Nice,44,ligue-1
+Amiens,09/09/17,A,Strasbourg,45,ligue-1
+Toulouse,09/09/17,D,Troyes,46,ligue-1
+Guingamp,10/09/17,H,Lyon,47,ligue-1
+Rennes,10/09/17,A,Marseille,48,ligue-1
+Angers,10/09/17,D,St Etienne,49,ligue-1
+Bordeaux,15/09/17,D,Toulouse,50,ligue-1
+St Etienne,16/09/17,D,Dijon,51,ligue-1
+Lille,16/09/17,D,Guingamp,52,ligue-1
+Strasbourg,16/09/17,H,Monaco,53,ligue-1
+Caen,16/09/17,H,Nantes,54,ligue-1
+Montpellier,16/09/17,A,Troyes,55,ligue-1
+Marseille,17/09/17,A,Amiens,56,ligue-1
+Metz,17/09/17,H,Angers,57,ligue-1
+Lyon,17/09/17,H,Paris SG,58,ligue-1
+Nice,17/09/17,D,Rennes,59,ligue-1
+Monaco,22/09/17,A,Lille,60,ligue-1
+Angers,22/09/17,A,Nice,61,ligue-1
+Guingamp,23/09/17,H,Bordeaux,62,ligue-1
+Amiens,23/09/17,H,Caen,63,ligue-1
+Dijon,23/09/17,H,Lyon,64,ligue-1
+Troyes,23/09/17,H,Metz,65,ligue-1
+Paris SG,23/09/17,D,Montpellier,66,ligue-1
+Toulouse,24/09/17,H,Marseille,67,ligue-1
+Rennes,24/09/17,D,St Etienne,68,ligue-1
+Nantes,24/09/17,A,Strasbourg,69,ligue-1
+Montpellier,29/09/17,H,Monaco,70,ligue-1
+Strasbourg,30/09/17,H,Dijon,71,ligue-1
+Toulouse,30/09/17,H,Guingamp,72,ligue-1
+Metz,30/09/17,H,Nantes,73,ligue-1
+Bordeaux,30/09/17,H,Paris SG,74,ligue-1
+Caen,30/09/17,A,Rennes,75,ligue-1
+Lyon,01/10/17,A,Angers,76,ligue-1
+Marseille,01/10/17,A,Nice,77,ligue-1
+St Etienne,01/10/17,H,Troyes,78,ligue-1
+Monaco,13/10/17,D,Lyon,79,ligue-1
+Angers,14/10/17,D,Caen,80,ligue-1
+Paris SG,14/10/17,D,Dijon,81,ligue-1
+Rennes,14/10/17,H,Guingamp,82,ligue-1
+Troyes,14/10/17,H,Lille,83,ligue-1
+Metz,14/10/17,D,St Etienne,84,ligue-1
+Amiens,14/10/17,H,Toulouse,85,ligue-1
+Nantes,15/10/17,A,Bordeaux,86,ligue-1
+Nice,15/10/17,A,Montpellier,87,ligue-1
+Marseille,15/10/17,H,Strasbourg,88,ligue-1
+Montpellier,20/10/17,A,St Etienne,89,ligue-1
+Bordeaux,21/10/17,D,Amiens,90,ligue-1
+Toulouse,21/10/17,D,Angers,91,ligue-1
+Dijon,21/10/17,A,Metz,92,ligue-1
+Caen,21/10/17,H,Monaco,93,ligue-1
+Guingamp,21/10/17,H,Nantes,94,ligue-1
+Lille,21/10/17,H,Rennes,95,ligue-1
+Paris SG,22/10/17,D,Marseille,96,ligue-1
+Strasbourg,22/10/17,H,Nice,97,ligue-1
+Lyon,22/10/17,A,Troyes,98,ligue-1
+Nice,27/10/17,H,Paris SG,99,ligue-1
+Monaco,28/10/17,A,Bordeaux,100,ligue-1
+Troyes,28/10/17,H,Caen,101,ligue-1
+Nantes,28/10/17,H,Dijon,102,ligue-1
+Amiens,28/10/17,H,Guingamp,103,ligue-1
+Rennes,28/10/17,D,Montpellier,104,ligue-1
+Angers,28/10/17,H,Strasbourg,105,ligue-1
+Marseille,29/10/17,D,Lille,106,ligue-1
+Metz,29/10/17,H,Lyon,107,ligue-1
+St Etienne,29/10/17,D,Toulouse,108,ligue-1
+Bordeaux,03/11/17,D,Rennes,109,ligue-1
+Paris SG,04/11/17,A,Angers,110,ligue-1
+Guingamp,04/11/17,H,Monaco,111,ligue-1
+Amiens,04/11/17,H,Montpellier,112,ligue-1
+Toulouse,04/11/17,H,Nantes,113,ligue-1
+Strasbourg,04/11/17,H,Troyes,114,ligue-1
+Caen,05/11/17,H,Marseille,115,ligue-1
+Lille,05/11/17,A,Metz,116,ligue-1
+Dijon,05/11/17,H,Nice,117,ligue-1
+Lyon,05/11/17,A,St Etienne,118,ligue-1
+Monaco,17/11/17,H,Amiens,119,ligue-1
+St Etienne,17/11/17,D,Lille,120,ligue-1
+Troyes,18/11/17,H,Dijon,121,ligue-1
+Angers,18/11/17,D,Guingamp,122,ligue-1
+Nantes,18/11/17,H,Paris SG,123,ligue-1
+Rennes,18/11/17,H,Strasbourg,124,ligue-1
+Metz,18/11/17,D,Toulouse,125,ligue-1
+Marseille,19/11/17,H,Bordeaux,126,ligue-1
+Nice,19/11/17,A,Caen,127,ligue-1
+Montpellier,19/11/17,H,Lyon,128,ligue-1
+Lille,20/11/17,H,Amiens,129,ligue-1
+Strasbourg,24/11/17,H,St Etienne,130,ligue-1
+Bordeaux,25/11/17,D,Caen,131,ligue-1
+Toulouse,25/11/17,H,Dijon,132,ligue-1
+Amiens,25/11/17,A,Metz,133,ligue-1
+Lille,25/11/17,H,Montpellier,134,ligue-1
+Nantes,25/11/17,D,Rennes,135,ligue-1
+Angers,25/11/17,H,Troyes,136,ligue-1
+Guingamp,26/11/17,H,Marseille,137,ligue-1
+Paris SG,26/11/17,A,Monaco,138,ligue-1
+Lyon,26/11/17,A,Nice,139,ligue-1
+Dijon,28/11/17,H,Amiens,140,ligue-1
+St Etienne,28/11/17,H,Bordeaux,141,ligue-1
+Caen,28/11/17,H,Strasbourg,142,ligue-1
+Rennes,29/11/17,H,Angers,143,ligue-1
+Montpellier,29/11/17,D,Guingamp,144,ligue-1
+Lille,29/11/17,D,Lyon,145,ligue-1
+Marseille,29/11/17,A,Metz,146,ligue-1
+Monaco,29/11/17,D,Nantes,147,ligue-1
+Troyes,29/11/17,A,Paris SG,148,ligue-1
+Nice,29/11/17,D,Toulouse,149,ligue-1
+Bordeaux,01/12/17,A,Dijon,150,ligue-1
+Toulouse,02/12/17,D,Lille,151,ligue-1
+Angers,02/12/17,H,Monaco,152,ligue-1
+Metz,02/12/17,H,Nice,153,ligue-1
+Amiens,02/12/17,D,Rennes,154,ligue-1
+Paris SG,02/12/17,D,Strasbourg,155,ligue-1
+Guingamp,02/12/17,A,Troyes,156,ligue-1
+Lyon,03/12/17,A,Caen,157,ligue-1
+Marseille,03/12/17,D,Montpellier,158,ligue-1
+Nantes,03/12/17,H,St Etienne,159,ligue-1
+Strasbourg,08/12/17,A,Bordeaux,160,ligue-1
+Montpellier,09/12/17,A,Angers,161,ligue-1
+Dijon,09/12/17,H,Guingamp,162,ligue-1
+Rennes,09/12/17,H,Metz,163,ligue-1
+Troyes,09/12/17,D,Monaco,164,ligue-1
+Lille,09/12/17,H,Paris SG,165,ligue-1
+Caen,09/12/17,D,Toulouse,166,ligue-1
+Lyon,10/12/17,H,Amiens,167,ligue-1
+St Etienne,10/12/17,H,Marseille,168,ligue-1
+Nice,10/12/17,D,Nantes,169,ligue-1
+Monaco,15/12/17,A,St Etienne,170,ligue-1
+Guingamp,16/12/17,D,Caen,171,ligue-1
+Lille,16/12/17,H,Dijon,172,ligue-1
+Metz,16/12/17,D,Montpellier,173,ligue-1
+Paris SG,16/12/17,A,Rennes,174,ligue-1
+Toulouse,16/12/17,H,Strasbourg,175,ligue-1
+Amiens,16/12/17,H,Troyes,176,ligue-1
+Marseille,17/12/17,H,Lyon,177,ligue-1
+Angers,17/12/17,H,Nantes,178,ligue-1
+Bordeaux,17/12/17,H,Nice,179,ligue-1
+Nantes,20/12/17,A,Amiens,180,ligue-1
+Dijon,20/12/17,H,Angers,181,ligue-1
+Montpellier,20/12/17,A,Bordeaux,182,ligue-1
+St Etienne,20/12/17,D,Guingamp,183,ligue-1
+Nice,20/12/17,A,Lille,184,ligue-1
+Troyes,20/12/17,H,Marseille,185,ligue-1
+Strasbourg,20/12/17,H,Metz,186,ligue-1
+Rennes,20/12/17,D,Monaco,187,ligue-1
+Caen,20/12/17,H,Paris SG,188,ligue-1
+Lyon,20/12/17,A,Toulouse,189,ligue-1
+Guingamp,12/01/18,A,Strasbourg,190,ligue-1
+Lille,13/01/18,A,Caen,191,ligue-1
+Metz,13/01/18,H,Dijon,192,ligue-1
+Monaco,13/01/18,A,Montpellier,193,ligue-1
+Amiens,13/01/18,H,Nice,194,ligue-1
+Marseille,13/01/18,A,Rennes,195,ligue-1
+Bordeaux,13/01/18,A,Troyes,196,ligue-1
+Angers,14/01/18,D,Lyon,197,ligue-1
+Paris SG,14/01/18,A,Nantes,198,ligue-1
+Toulouse,14/01/18,H,St Etienne,199,ligue-1
+Caen,16/01/18,D,Bordeaux,200,ligue-1
+Strasbourg,16/01/18,H,Marseille,201,ligue-1
+Nice,16/01/18,D,Monaco,202,ligue-1
+Montpellier,17/01/18,A,Amiens,203,ligue-1
+Troyes,17/01/18,H,Angers,204,ligue-1
+Lyon,17/01/18,A,Guingamp,205,ligue-1
+Rennes,17/01/18,A,Lille,206,ligue-1
+St Etienne,17/01/18,H,Metz,207,ligue-1
+Dijon,17/01/18,H,Paris SG,208,ligue-1
+Nantes,17/01/18,A,Toulouse,209,ligue-1
+Marseille,19/01/18,D,Caen,210,ligue-1
+Guingamp,20/01/18,H,Amiens,211,ligue-1
+Toulouse,20/01/18,D,Montpellier,212,ligue-1
+Bordeaux,20/01/18,A,Nantes,213,ligue-1
+Angers,20/01/18,D,Rennes,214,ligue-1
+Dijon,20/01/18,H,Strasbourg,215,ligue-1
+Lille,20/01/18,H,Troyes,216,ligue-1
+Paris SG,21/01/18,D,Lyon,217,ligue-1
+Metz,21/01/18,H,Monaco,218,ligue-1
+St Etienne,21/01/18,H,Nice,219,ligue-1
+Rennes,26/01/18,D,Dijon,220,ligue-1
+Amiens,27/01/18,H,Angers,221,ligue-1
+Nantes,27/01/18,D,Guingamp,222,ligue-1
+Nice,27/01/18,D,Metz,223,ligue-1
+Montpellier,27/01/18,H,Paris SG,224,ligue-1
+Caen,27/01/18,D,St Etienne,225,ligue-1
+Troyes,27/01/18,H,Toulouse,226,ligue-1
+Lyon,28/01/18,H,Bordeaux,227,ligue-1
+Strasbourg,28/01/18,H,Lille,228,ligue-1
+Monaco,28/01/18,H,Marseille,229,ligue-1
+Metz,02/02/18,H,Marseille,230,ligue-1
+St Etienne,03/02/18,A,Amiens,231,ligue-1
+Paris SG,03/02/18,A,Lille,232,ligue-1
+Angers,03/02/18,D,Montpellier,233,ligue-1
+Toulouse,03/02/18,D,Nice,234,ligue-1
+Bordeaux,03/02/18,A,Strasbourg,235,ligue-1
+Nantes,04/02/18,D,Caen,236,ligue-1
+Lyon,04/02/18,D,Monaco,237,ligue-1
+Guingamp,04/02/18,H,Rennes,238,ligue-1
+Marseille,09/02/18,A,St Etienne,239,ligue-1
+Monaco,10/02/18,A,Angers,240,ligue-1
+Amiens,10/02/18,H,Bordeaux,241,ligue-1
+Nice,10/02/18,D,Dijon,242,ligue-1
+Caen,10/02/18,D,Guingamp,243,ligue-1
+Montpellier,10/02/18,A,Metz,244,ligue-1
+Paris SG,10/02/18,A,Toulouse,245,ligue-1
+Rennes,11/02/18,A,Lyon,246,ligue-1
+Lille,11/02/18,H,Nantes,247,ligue-1
+Troyes,11/02/18,H,Strasbourg,248,ligue-1
+Dijon,16/02/18,H,Monaco,249,ligue-1
+Toulouse,17/02/18,A,Amiens,250,ligue-1
+St Etienne,17/02/18,D,Angers,251,ligue-1
+Rennes,17/02/18,A,Caen,252,ligue-1
+Guingamp,17/02/18,D,Montpellier,253,ligue-1
+Strasbourg,17/02/18,H,Paris SG,254,ligue-1
+Metz,17/02/18,H,Troyes,255,ligue-1
+Lyon,18/02/18,A,Lille,256,ligue-1
+Bordeaux,18/02/18,H,Marseille,257,ligue-1
+Nantes,18/02/18,D,Nice,258,ligue-1
+Dijon,20/02/18,D,Troyes,259,ligue-1
+Montpellier,23/02/18,D,Strasbourg,260,ligue-1
+Caen,24/02/18,H,Dijon,261,ligue-1
+Metz,24/02/18,H,Guingamp,262,ligue-1
+Angers,24/02/18,A,Lille,263,ligue-1
+Amiens,24/02/18,D,Nantes,264,ligue-1
+Troyes,24/02/18,H,Rennes,265,ligue-1
+Monaco,24/02/18,H,Toulouse,266,ligue-1
+Nice,25/02/18,D,Bordeaux,267,ligue-1
+St Etienne,25/02/18,H,Lyon,268,ligue-1
+Marseille,25/02/18,H,Paris SG,269,ligue-1
+Bordeaux,02/03/18,D,Monaco,270,ligue-1
+Lille,02/03/18,H,Nice,271,ligue-1
+Rennes,03/03/18,A,Amiens,272,ligue-1
+Guingamp,03/03/18,H,Angers,273,ligue-1
+Toulouse,03/03/18,D,Metz,274,ligue-1
+Dijon,03/03/18,H,St Etienne,275,ligue-1
+Paris SG,03/03/18,A,Troyes,276,ligue-1
+Strasbourg,04/03/18,H,Caen,277,ligue-1
+Nantes,04/03/18,D,Marseille,278,ligue-1
+Lyon,04/03/18,H,Montpellier,279,ligue-1
+Monaco,09/03/18,A,Strasbourg,280,ligue-1
+Angers,10/03/18,D,Bordeaux,281,ligue-1
+Amiens,10/03/18,A,Dijon,282,ligue-1
+Montpellier,10/03/18,H,Lille,283,ligue-1
+Troyes,10/03/18,H,Nantes,284,ligue-1
+Metz,10/03/18,H,Paris SG,285,ligue-1
+St Etienne,10/03/18,A,Rennes,286,ligue-1
+Nice,11/03/18,D,Guingamp,287,ligue-1
+Caen,11/03/18,H,Lyon,288,ligue-1
+Marseille,11/03/18,A,Toulouse,289,ligue-1
+Angers,14/03/18,H,Paris SG,290,ligue-1
+Lille,16/03/18,H,Monaco,291,ligue-1
+Troyes,17/03/18,H,Amiens,292,ligue-1
+Caen,17/03/18,H,Angers,293,ligue-1
+Rennes,17/03/18,D,Bordeaux,294,ligue-1
+Dijon,17/03/18,H,Montpellier,295,ligue-1
+Strasbourg,17/03/18,H,Toulouse,296,ligue-1
+Lyon,18/03/18,D,Marseille,297,ligue-1
+Nantes,18/03/18,D,Metz,298,ligue-1
+Paris SG,18/03/18,A,Nice,299,ligue-1
+Guingamp,18/03/18,H,St Etienne,300,ligue-1
+Marseille,31/03/18,A,Dijon,301,ligue-1
+Montpellier,01/04/18,A,Caen,302,ligue-1
+Bordeaux,01/04/18,D,Guingamp,303,ligue-1
+Amiens,01/04/18,D,Lille,304,ligue-1
+Toulouse,01/04/18,H,Lyon,305,ligue-1
+St Etienne,01/04/18,A,Nantes,306,ligue-1
+Metz,01/04/18,D,Strasbourg,307,ligue-1
+Nice,01/04/18,A,Troyes,308,ligue-1
+Monaco,04/04/18,D,Rennes,309,ligue-1
+Paris SG,06/04/18,D,St Etienne,310,ligue-1
+Caen,07/04/18,H,Amiens,311,ligue-1
+Strasbourg,07/04/18,H,Angers,312,ligue-1
+Lille,07/04/18,H,Bordeaux,313,ligue-1
+Troyes,07/04/18,H,Guingamp,314,ligue-1
+Nantes,07/04/18,H,Monaco,315,ligue-1
+Dijon,07/04/18,A,Toulouse,316,ligue-1
+Montpellier,08/04/18,D,Marseille,317,ligue-1
+Lyon,08/04/18,A,Metz,318,ligue-1
+Rennes,08/04/18,D,Nice,319,ligue-1
+Nice,13/04/18,A,Angers,320,ligue-1
+Guingamp,14/04/18,D,Lille,321,ligue-1
+Amiens,14/04/18,H,Lyon,322,ligue-1
+Dijon,14/04/18,D,Nantes,323,ligue-1
+Metz,14/04/18,H,Rennes,324,ligue-1
+St Etienne,14/04/18,D,Strasbourg,325,ligue-1
+Bordeaux,15/04/18,A,Montpellier,326,ligue-1
+Monaco,15/04/18,H,Paris SG,327,ligue-1
+Marseille,15/04/18,A,Troyes,328,ligue-1
+Lyon,20/04/18,A,Dijon,329,ligue-1
+Rennes,20/04/18,A,Nantes,330,ligue-1
+Strasbourg,21/04/18,H,Amiens,331,ligue-1
+Monaco,21/04/18,H,Guingamp,332,ligue-1
+Lille,21/04/18,H,Marseille,333,ligue-1
+Caen,21/04/18,D,Metz,334,ligue-1
+Angers,21/04/18,H,Toulouse,335,ligue-1
+Paris SG,22/04/18,D,Bordeaux,336,ligue-1
+Montpellier,22/04/18,H,Nice,337,ligue-1
+Troyes,22/04/18,D,St Etienne,338,ligue-1
+Toulouse,25/04/18,D,Caen,339,ligue-1
+St Etienne,27/04/18,A,Montpellier,340,ligue-1
+Dijon,28/04/18,H,Bordeaux,341,ligue-1
+Metz,28/04/18,H,Lille,342,ligue-1
+Nantes,28/04/18,H,Lyon,343,ligue-1
+Amiens,28/04/18,D,Monaco,344,ligue-1
+Nice,28/04/18,A,Strasbourg,345,ligue-1
+Caen,28/04/18,H,Troyes,346,ligue-1
+Marseille,29/04/18,A,Angers,347,ligue-1
+Guingamp,29/04/18,D,Paris SG,348,ligue-1
+Toulouse,29/04/18,D,Rennes,349,ligue-1
+Paris SG,04/05/18,A,Amiens,350,ligue-1
+Monaco,06/05/18,D,Caen,351,ligue-1
+Guingamp,06/05/18,H,Dijon,352,ligue-1
+Troyes,06/05/18,H,Lyon,353,ligue-1
+Nice,06/05/18,H,Marseille,354,ligue-1
+Angers,06/05/18,H,Metz,355,ligue-1
+Montpellier,06/05/18,A,Nantes,356,ligue-1
+Strasbourg,06/05/18,H,Rennes,357,ligue-1
+Bordeaux,06/05/18,A,St Etienne,358,ligue-1
+Lille,06/05/18,H,Toulouse,359,ligue-1
+Marseille,11/05/18,A,Guingamp,360,ligue-1
+Metz,12/05/18,H,Amiens,361,ligue-1
+Nantes,12/05/18,D,Angers,362,ligue-1
+Toulouse,12/05/18,D,Bordeaux,363,ligue-1
+Dijon,12/05/18,H,Lille,364,ligue-1
+St Etienne,12/05/18,D,Monaco,365,ligue-1
+Troyes,12/05/18,A,Montpellier,366,ligue-1
+Caen,12/05/18,H,Nice,367,ligue-1
+Rennes,12/05/18,H,Paris SG,368,ligue-1
+Lyon,12/05/18,H,Strasbourg,369,ligue-1
+Paris SG,19/05/18,D,Caen,370,ligue-1
+Angers,19/05/18,A,Dijon,371,ligue-1
+Nice,19/05/18,D,Lyon,372,ligue-1
+Amiens,19/05/18,H,Marseille,373,ligue-1
+Bordeaux,19/05/18,A,Metz,374,ligue-1
+Strasbourg,19/05/18,H,Nantes,375,ligue-1
+Montpellier,19/05/18,D,Rennes,376,ligue-1
+Lille,19/05/18,H,St Etienne,377,ligue-1
+Guingamp,19/05/18,H,Toulouse,378,ligue-1
+Monaco,19/05/18,A,Troyes,379,ligue-1
+Leicester,11/08/17,H,Arsenal,0,premier-league
+Man City,12/08/17,A,Brighton,1,premier-league
+Burnley,12/08/17,A,Chelsea,2,premier-league
+Huddersfield,12/08/17,A,Crystal Palace,3,premier-league
+Stoke,12/08/17,H,Everton,4,premier-league
+Swansea,12/08/17,D,Southampton,5,premier-league
+Liverpool,12/08/17,A,Watford,6,premier-league
+Bournemouth,12/08/17,H,West Brom,7,premier-league
+West Ham,13/08/17,H,Man United,8,premier-league
+Tottenham,13/08/17,A,Newcastle,9,premier-league
+Watford,19/08/17,D,Bournemouth,10,premier-league
+West Brom,19/08/17,D,Burnley,11,premier-league
+Brighton,19/08/17,H,Leicester,12,premier-league
+Crystal Palace,19/08/17,H,Liverpool,13,premier-league
+West Ham,19/08/17,H,Southampton,14,premier-league
+Arsenal,19/08/17,D,Stoke,15,premier-league
+Man United,19/08/17,A,Swansea,16,premier-league
+Newcastle,20/08/17,A,Huddersfield,17,premier-league
+Chelsea,20/08/17,A,Tottenham,18,premier-league
+Everton,21/08/17,D,Man City,19,premier-league
+Man City,26/08/17,A,Bournemouth,20,premier-league
+Swansea,26/08/17,A,Crystal Palace,21,premier-league
+Southampton,26/08/17,H,Huddersfield,22,premier-league
+Leicester,26/08/17,H,Man United,23,premier-league
+West Ham,26/08/17,H,Newcastle,24,premier-league
+Brighton,26/08/17,D,Watford,25,premier-league
+Everton,27/08/17,H,Chelsea,26,premier-league
+Arsenal,27/08/17,H,Liverpool,27,premier-league
+Burnley,27/08/17,H,Tottenham,28,premier-league
+Stoke,27/08/17,D,West Brom,29,premier-league
+Bournemouth,09/09/17,H,Arsenal,30,premier-league
+West Brom,09/09/17,H,Brighton,31,premier-league
+Tottenham,09/09/17,A,Everton,32,premier-league
+Chelsea,09/09/17,A,Leicester,33,premier-league
+Liverpool,09/09/17,H,Man City,34,premier-league
+Watford,09/09/17,A,Southampton,35,premier-league
+Man United,09/09/17,A,Stoke,36,premier-league
+Crystal Palace,10/09/17,H,Burnley,37,premier-league
+Newcastle,10/09/17,A,Swansea,38,premier-league
+Huddersfield,11/09/17,D,West Ham,39,premier-league
+Brighton,15/09/17,D,Bournemouth,40,premier-league
+Southampton,16/09/17,A,Crystal Palace,41,premier-league
+Leicester,16/09/17,D,Huddersfield,42,premier-league
+Burnley,16/09/17,H,Liverpool,43,premier-league
+Stoke,16/09/17,H,Newcastle,44,premier-league
+Swansea,16/09/17,H,Tottenham,45,premier-league
+Man City,16/09/17,A,Watford,46,premier-league
+West Ham,16/09/17,D,West Brom,47,premier-league
+Arsenal,17/09/17,D,Chelsea,48,premier-league
+Everton,17/09/17,H,Man United,49,premier-league
+Huddersfield,23/09/17,H,Burnley,50,premier-league
+Bournemouth,23/09/17,H,Everton,51,premier-league
+Liverpool,23/09/17,A,Leicester,52,premier-league
+Crystal Palace,23/09/17,H,Man City,53,premier-league
+Man United,23/09/17,A,Southampton,54,premier-league
+Chelsea,23/09/17,A,Stoke,55,premier-league
+Watford,23/09/17,A,Swansea,56,premier-league
+Tottenham,23/09/17,A,West Ham,57,premier-league
+Newcastle,24/09/17,H,Brighton,58,premier-league
+West Brom,25/09/17,H,Arsenal,59,premier-league
+Leicester,30/09/17,D,Bournemouth,60,premier-league
+Man City,30/09/17,D,Chelsea,61,premier-league
+Tottenham,30/09/17,A,Huddersfield,62,premier-league
+Crystal Palace,30/09/17,H,Man United,63,premier-league
+Southampton,30/09/17,H,Stoke,64,premier-league
+Watford,30/09/17,H,West Brom,65,premier-league
+Swansea,30/09/17,H,West Ham,66,premier-league
+Brighton,01/10/17,H,Arsenal,67,premier-league
+Burnley,01/10/17,A,Everton,68,premier-league
+Liverpool,01/10/17,H,Newcastle,69,premier-league
+West Ham,14/10/17,A,Burnley,70,premier-league
+Chelsea,14/10/17,D,Crystal Palace,71,premier-league
+Man United,14/10/17,D,Liverpool,72,premier-league
+Stoke,14/10/17,H,Man City,73,premier-league
+Huddersfield,14/10/17,H,Swansea,74,premier-league
+Bournemouth,14/10/17,H,Tottenham,75,premier-league
+Arsenal,14/10/17,A,Watford,76,premier-league
+Everton,15/10/17,A,Brighton,77,premier-league
+Newcastle,15/10/17,A,Southampton,78,premier-league
+West Brom,16/10/17,D,Leicester,79,premier-league
+Brighton,20/10/17,A,West Ham,80,premier-league
+Watford,21/10/17,H,Chelsea,81,premier-league
+Man United,21/10/17,H,Huddersfield,82,premier-league
+Burnley,21/10/17,H,Man City,83,premier-league
+Crystal Palace,21/10/17,H,Newcastle,84,premier-league
+West Brom,21/10/17,D,Southampton,85,premier-league
+Bournemouth,21/10/17,A,Stoke,86,premier-league
+Leicester,21/10/17,A,Swansea,87,premier-league
+Arsenal,22/10/17,A,Everton,88,premier-league
+Liverpool,22/10/17,H,Tottenham,89,premier-league
+Swansea,28/10/17,D,Arsenal,90,premier-league
+Chelsea,28/10/17,A,Bournemouth,91,premier-league
+West Ham,28/10/17,A,Crystal Palace,92,premier-league
+Huddersfield,28/10/17,H,Liverpool,93,premier-league
+Tottenham,28/10/17,D,Man United,94,premier-league
+Stoke,28/10/17,A,Watford,95,premier-league
+Man City,28/10/17,A,West Brom,96,premier-league
+Southampton,29/10/17,D,Brighton,97,premier-league
+Everton,29/10/17,H,Leicester,98,premier-league
+Newcastle,30/10/17,D,Burnley,99,premier-league
+West Brom,04/11/17,H,Huddersfield,100,premier-league
+Bournemouth,04/11/17,A,Newcastle,101,premier-league
+Burnley,04/11/17,D,Southampton,102,premier-league
+Leicester,04/11/17,H,Stoke,103,premier-league
+Brighton,04/11/17,A,Swansea,104,premier-league
+Liverpool,04/11/17,A,West Ham,105,premier-league
+Man United,05/11/17,D,Chelsea,106,premier-league
+Watford,05/11/17,H,Everton,107,premier-league
+Arsenal,05/11/17,H,Man City,108,premier-league
+Crystal Palace,05/11/17,D,Tottenham,109,premier-league
+Tottenham,18/11/17,H,Arsenal,110,premier-league
+Huddersfield,18/11/17,H,Bournemouth,111,premier-league
+Swansea,18/11/17,H,Burnley,112,premier-league
+Everton,18/11/17,D,Crystal Palace,113,premier-league
+Man City,18/11/17,A,Leicester,114,premier-league
+Southampton,18/11/17,H,Liverpool,115,premier-league
+Newcastle,18/11/17,H,Man United,116,premier-league
+Chelsea,18/11/17,A,West Brom,117,premier-league
+West Ham,19/11/17,H,Watford,118,premier-league
+Stoke,20/11/17,A,Brighton,119,premier-league
+Leicester,24/11/17,D,West Ham,120,premier-league
+Stoke,25/11/17,H,Crystal Palace,121,premier-league
+Chelsea,25/11/17,H,Liverpool,122,premier-league
+Brighton,25/11/17,H,Man United,123,premier-league
+Watford,25/11/17,A,Newcastle,124,premier-league
+Bournemouth,25/11/17,A,Swansea,125,premier-league
+West Brom,25/11/17,D,Tottenham,126,premier-league
+Arsenal,26/11/17,D,Burnley,127,premier-league
+Man City,26/11/17,A,Huddersfield,128,premier-league
+Everton,26/11/17,D,Southampton,129,premier-league
+Crystal Palace,28/11/17,D,Brighton,130,premier-league
+Tottenham,28/11/17,H,Leicester,131,premier-league
+Man United,28/11/17,A,Watford,132,premier-league
+Newcastle,28/11/17,H,West Brom,133,premier-league
+Huddersfield,29/11/17,H,Arsenal,134,premier-league
+Burnley,29/11/17,A,Bournemouth,135,premier-league
+Swansea,29/11/17,H,Chelsea,136,premier-league
+West Ham,29/11/17,H,Everton,137,premier-league
+Southampton,29/11/17,H,Man City,138,premier-league
+Liverpool,29/11/17,A,Stoke,139,premier-league
+Man United,02/12/17,A,Arsenal,140,premier-league
+Liverpool,02/12/17,A,Brighton,141,premier-league
+Newcastle,02/12/17,H,Chelsea,142,premier-league
+Huddersfield,02/12/17,H,Everton,143,premier-league
+Burnley,02/12/17,D,Leicester,144,premier-league
+Swansea,02/12/17,H,Stoke,145,premier-league
+Tottenham,02/12/17,D,Watford,146,premier-league
+Crystal Palace,02/12/17,D,West Brom,147,premier-league
+Southampton,03/12/17,H,Bournemouth,148,premier-league
+West Ham,03/12/17,A,Man City,149,premier-league
+Watford,09/12/17,H,Burnley,150,premier-league
+Bournemouth,09/12/17,D,Crystal Palace,151,premier-league
+Brighton,09/12/17,H,Huddersfield,152,premier-league
+Leicester,09/12/17,D,Newcastle,153,premier-league
+West Brom,09/12/17,D,Swansea,154,premier-league
+Stoke,09/12/17,H,Tottenham,155,premier-league
+Chelsea,09/12/17,D,West Ham,156,premier-league
+Everton,10/12/17,H,Liverpool,157,premier-league
+Man City,10/12/17,D,Man United,158,premier-league
+Arsenal,10/12/17,D,Southampton,159,premier-league
+Stoke,12/12/17,A,Burnley,160,premier-league
+Watford,12/12/17,D,Crystal Palace,161,premier-league
+Chelsea,12/12/17,A,Huddersfield,162,premier-league
+West Brom,13/12/17,H,Liverpool,163,premier-league
+Bournemouth,13/12/17,H,Man United,164,premier-league
+Everton,13/12/17,A,Newcastle,165,premier-league
+Leicester,13/12/17,A,Southampton,166,premier-league
+Man City,13/12/17,A,Swansea,167,premier-league
+Brighton,13/12/17,H,Tottenham,168,premier-league
+Arsenal,13/12/17,D,West Ham,169,premier-league
+Newcastle,16/12/17,H,Arsenal,170,premier-league
+Burnley,16/12/17,A,Brighton,171,premier-league
+Southampton,16/12/17,H,Chelsea,172,premier-league
+Crystal Palace,16/12/17,A,Leicester,173,premier-league
+Tottenham,16/12/17,H,Man City,174,premier-league
+West Ham,16/12/17,A,Stoke,175,premier-league
+Huddersfield,16/12/17,A,Watford,176,premier-league
+Liverpool,17/12/17,A,Bournemouth,177,premier-league
+Man United,17/12/17,A,West Brom,178,premier-league
+Swansea,18/12/17,H,Everton,179,premier-league
+Liverpool,22/12/17,A,Arsenal,180,premier-league
+Watford,23/12/17,D,Brighton,181,premier-league
+Tottenham,23/12/17,A,Burnley,182,premier-league
+Chelsea,23/12/17,A,Everton,183,premier-league
+Man United,23/12/17,A,Leicester,184,premier-league
+Bournemouth,23/12/17,H,Man City,185,premier-league
+Huddersfield,23/12/17,H,Southampton,186,premier-league
+West Brom,23/12/17,H,Stoke,187,premier-league
+Crystal Palace,23/12/17,A,Swansea,188,premier-league
+Newcastle,23/12/17,H,West Ham,189,premier-league
+West Ham,26/12/17,D,Bournemouth,190,premier-league
+Brighton,26/12/17,H,Chelsea,191,premier-league
+Stoke,26/12/17,H,Huddersfield,192,premier-league
+Swansea,26/12/17,H,Liverpool,193,premier-league
+Burnley,26/12/17,A,Man United,194,premier-league
+Southampton,26/12/17,H,Tottenham,195,premier-league
+Leicester,26/12/17,D,Watford,196,premier-league
+Everton,26/12/17,A,West Brom,197,premier-league
+Man City,27/12/17,A,Newcastle,198,premier-league
+Arsenal,28/12/17,A,Crystal Palace,199,premier-league
+Everton,30/12/17,H,Bournemouth,200,premier-league
+Stoke,30/12/17,H,Chelsea,201,premier-league
+Burnley,30/12/17,D,Huddersfield,202,premier-league
+Leicester,30/12/17,D,Liverpool,203,premier-league
+Southampton,30/12/17,D,Man United,204,premier-league
+Brighton,30/12/17,H,Newcastle,205,premier-league
+Swansea,30/12/17,H,Watford,206,premier-league
+Man City,31/12/17,A,Crystal Palace,207,premier-league
+Arsenal,31/12/17,A,West Brom,208,premier-league
+Bournemouth,01/01/18,A,Brighton,209,premier-league
+Liverpool,01/01/18,D,Burnley,210,premier-league
+Man United,01/01/18,A,Everton,211,premier-league
+Huddersfield,01/01/18,H,Leicester,212,premier-league
+Newcastle,01/01/18,A,Stoke,213,premier-league
+Watford,02/01/18,H,Man City,214,premier-league
+Crystal Palace,02/01/18,H,Southampton,215,premier-league
+Tottenham,02/01/18,A,Swansea,216,premier-league
+West Brom,02/01/18,D,West Ham,217,premier-league
+Chelsea,03/01/18,H,Arsenal,218,premier-league
+West Ham,04/01/18,H,Tottenham,219,premier-league
+Leicester,13/01/18,H,Chelsea,220,premier-league
+Burnley,13/01/18,H,Crystal Palace,221,premier-league
+West Ham,13/01/18,A,Huddersfield,222,premier-league
+Swansea,13/01/18,H,Newcastle,223,premier-league
+Everton,13/01/18,H,Tottenham,224,premier-league
+Southampton,13/01/18,A,Watford,225,premier-league
+Brighton,13/01/18,H,West Brom,226,premier-league
+Arsenal,14/01/18,D,Bournemouth,227,premier-league
+Man City,14/01/18,D,Liverpool,228,premier-league
+Stoke,15/01/18,H,Man United,229,premier-league
+Crystal Palace,20/01/18,H,Arsenal,230,premier-league
+Chelsea,20/01/18,A,Brighton,231,premier-league
+Man United,20/01/18,D,Burnley,232,premier-league
+West Brom,20/01/18,A,Everton,233,premier-league
+Watford,20/01/18,H,Leicester,234,premier-league
+Newcastle,20/01/18,H,Man City,235,premier-league
+Huddersfield,20/01/18,H,Stoke,236,premier-league
+Bournemouth,20/01/18,D,West Ham,237,premier-league
+Tottenham,21/01/18,D,Southampton,238,premier-league
+Liverpool,22/01/18,D,Swansea,239,premier-league
+Liverpool,30/01/18,A,Huddersfield,240,premier-league
+Arsenal,30/01/18,D,Swansea,241,premier-league
+Crystal Palace,30/01/18,D,West Ham,242,premier-league
+Bournemouth,31/01/18,D,Chelsea,243,premier-league
+Leicester,31/01/18,H,Everton,244,premier-league
+West Brom,31/01/18,H,Man City,245,premier-league
+Burnley,31/01/18,D,Newcastle,246,premier-league
+Brighton,31/01/18,A,Southampton,247,premier-league
+Watford,31/01/18,H,Stoke,248,premier-league
+Man United,31/01/18,H,Tottenham,249,premier-league
+Everton,03/02/18,H,Arsenal,250,premier-league
+Stoke,03/02/18,D,Bournemouth,251,premier-league
+West Ham,03/02/18,D,Brighton,252,premier-league
+Man City,03/02/18,A,Burnley,253,premier-league
+Swansea,03/02/18,H,Leicester,254,premier-league
+Huddersfield,03/02/18,H,Man United,255,premier-league
+Southampton,03/02/18,A,West Brom,256,premier-league
+Newcastle,04/02/18,A,Crystal Palace,257,premier-league
+Tottenham,04/02/18,H,Liverpool,258,premier-league
+Chelsea,05/02/18,H,Watford,259,premier-league
+Crystal Palace,10/02/18,D,Everton,260,premier-league
+Leicester,10/02/18,H,Man City,261,premier-league
+Brighton,10/02/18,A,Stoke,262,premier-league
+Burnley,10/02/18,D,Swansea,263,premier-league
+Arsenal,10/02/18,D,Tottenham,264,premier-league
+Watford,10/02/18,H,West Ham,265,premier-league
+Bournemouth,11/02/18,H,Huddersfield,266,premier-league
+Man United,11/02/18,A,Newcastle,267,premier-league
+Liverpool,11/02/18,A,Southampton,268,premier-league
+West Brom,12/02/18,H,Chelsea,269,premier-league
+Newcastle,24/02/18,A,Bournemouth,270,premier-league
+Swansea,24/02/18,H,Brighton,271,premier-league
+Southampton,24/02/18,A,Burnley,272,premier-league
+Stoke,24/02/18,D,Leicester,273,premier-league
+West Ham,24/02/18,H,Liverpool,274,premier-league
+Everton,24/02/18,D,Watford,275,premier-league
+Huddersfield,24/02/18,A,West Brom,276,premier-league
+Tottenham,25/02/18,A,Crystal Palace,277,premier-league
+Chelsea,25/02/18,H,Man United,278,premier-league
+Man City,01/03/18,A,Arsenal,279,premier-league
+Everton,03/03/18,A,Burnley,280,premier-league
+Bournemouth,03/03/18,A,Leicester,281,premier-league
+Newcastle,03/03/18,H,Liverpool,282,premier-league
+Stoke,03/03/18,D,Southampton,283,premier-league
+West Ham,03/03/18,H,Swansea,284,premier-league
+Huddersfield,03/03/18,H,Tottenham,285,premier-league
+West Brom,03/03/18,H,Watford,286,premier-league
+Arsenal,04/03/18,H,Brighton,287,premier-league
+Chelsea,04/03/18,H,Man City,288,premier-league
+Man United,05/03/18,A,Crystal Palace,289,premier-league
+Crystal Palace,10/03/18,H,Chelsea,290,premier-league
+Brighton,10/03/18,D,Everton,291,premier-league
+Swansea,10/03/18,D,Huddersfield,292,premier-league
+Liverpool,10/03/18,H,Man United,293,premier-league
+Southampton,10/03/18,H,Newcastle,294,premier-league
+Leicester,10/03/18,A,West Brom,295,premier-league
+Burnley,10/03/18,A,West Ham,296,premier-league
+Watford,11/03/18,H,Arsenal,297,premier-league
+Tottenham,11/03/18,A,Bournemouth,298,premier-league
+Man City,12/03/18,A,Stoke,299,premier-league
+West Brom,17/03/18,D,Bournemouth,300,premier-league
+Crystal Palace,17/03/18,A,Huddersfield,301,premier-league
+Watford,17/03/18,H,Liverpool,302,premier-league
+Everton,17/03/18,A,Stoke,303,premier-league
+Leicester,31/03/18,D,Brighton,304,premier-league
+Liverpool,31/03/18,A,Crystal Palace,305,premier-league
+Man City,31/03/18,A,Everton,306,premier-league
+Swansea,31/03/18,H,Man United,307,premier-league
+Huddersfield,31/03/18,H,Newcastle,308,premier-league
+Bournemouth,31/03/18,D,Watford,309,premier-league
+Burnley,31/03/18,A,West Brom,310,premier-league
+Southampton,31/03/18,H,West Ham,311,premier-league
+Stoke,01/04/18,H,Arsenal,312,premier-league
+Tottenham,01/04/18,A,Chelsea,313,premier-league
+Crystal Palace,07/04/18,A,Bournemouth,314,premier-league
+Huddersfield,07/04/18,A,Brighton,315,premier-league
+Liverpool,07/04/18,A,Everton,316,premier-league
+Newcastle,07/04/18,A,Leicester,317,premier-league
+Man United,07/04/18,H,Man City,318,premier-league
+Tottenham,07/04/18,A,Stoke,319,premier-league
+Burnley,07/04/18,A,Watford,320,premier-league
+Swansea,07/04/18,D,West Brom,321,premier-league
+Southampton,08/04/18,H,Arsenal,322,premier-league
+West Ham,08/04/18,H,Chelsea,323,premier-league
+Leicester,14/04/18,H,Burnley,324,premier-league
+Brighton,14/04/18,H,Crystal Palace,325,premier-league
+Watford,14/04/18,D,Huddersfield,326,premier-league
+Bournemouth,14/04/18,H,Liverpool,327,premier-league
+Chelsea,14/04/18,H,Southampton,328,premier-league
+Everton,14/04/18,A,Swansea,329,premier-league
+Man City,14/04/18,A,Tottenham,330,premier-league
+West Brom,15/04/18,H,Man United,331,premier-league
+Arsenal,15/04/18,H,Newcastle,332,premier-league
+Stoke,16/04/18,A,West Ham,333,premier-league
+Tottenham,17/04/18,A,Brighton,334,premier-league
+Man United,18/04/18,A,Bournemouth,335,premier-league
+Chelsea,19/04/18,A,Burnley,336,premier-league
+Southampton,19/04/18,D,Leicester,337,premier-league
+Crystal Palace,21/04/18,D,Watford,338,premier-league
+Liverpool,21/04/18,A,West Brom,339,premier-league
+West Ham,22/04/18,H,Arsenal,340,premier-league
+Swansea,22/04/18,H,Man City,341,premier-league
+Burnley,22/04/18,H,Stoke,342,premier-league
+Newcastle,23/04/18,D,Everton,343,premier-league
+Brighton,28/04/18,H,Burnley,344,premier-league
+Leicester,28/04/18,H,Crystal Palace,345,premier-league
+Everton,28/04/18,A,Huddersfield,346,premier-league
+Stoke,28/04/18,D,Liverpool,347,premier-league
+West Brom,28/04/18,A,Newcastle,348,premier-league
+Bournemouth,28/04/18,D,Southampton,349,premier-league
+Chelsea,28/04/18,A,Swansea,350,premier-league
+Arsenal,29/04/18,H,Man United,351,premier-league
+Man City,29/04/18,A,West Ham,352,premier-league
+Watford,30/04/18,H,Tottenham,353,premier-league
+Man United,04/05/18,D,Brighton,354,premier-league
+Swansea,05/05/18,H,Bournemouth,355,premier-league
+Southampton,05/05/18,D,Everton,356,premier-league
+West Ham,05/05/18,A,Leicester,357,premier-league
+Crystal Palace,05/05/18,H,Stoke,358,premier-league
+Newcastle,05/05/18,H,Watford,359,premier-league
+Tottenham,05/05/18,A,West Brom,360,premier-league
+Burnley,06/05/18,H,Arsenal,361,premier-league
+Liverpool,06/05/18,D,Chelsea,362,premier-league
+Huddersfield,06/05/18,H,Man City,363,premier-league
+Southampton,08/05/18,A,Swansea,364,premier-league
+Huddersfield,09/05/18,D,Chelsea,365,premier-league
+Arsenal,09/05/18,H,Leicester,366,premier-league
+Brighton,09/05/18,H,Man City,367,premier-league
+Newcastle,09/05/18,H,Tottenham,368,premier-league
+Man United,10/05/18,A,West Ham,369,premier-league
+Bournemouth,13/05/18,H,Burnley,370,premier-league
+West Brom,13/05/18,H,Crystal Palace,371,premier-league
+Arsenal,13/05/18,A,Huddersfield,372,premier-league
+Brighton,13/05/18,H,Liverpool,373,premier-league
+Watford,13/05/18,H,Man United,374,premier-league
+Chelsea,13/05/18,H,Newcastle,375,premier-league
+Man City,13/05/18,D,Southampton,376,premier-league
+Stoke,13/05/18,A,Swansea,377,premier-league
+Leicester,13/05/18,A,Tottenham,378,premier-league
+Everton,13/05/18,H,West Ham,379,premier-league
+Cagliari,19/08/17,H,Juventus,0,serie-a
+Napoli,19/08/17,A,Verona,1,serie-a
+Roma,20/08/17,D,Atalanta,2,serie-a
+Torino,20/08/17,D,Bologna,3,serie-a
+Milan,20/08/17,A,Crotone,4,serie-a
+Fiorentina,20/08/17,H,Inter,5,serie-a
+Spal,20/08/17,H,Lazio,6,serie-a
+Benevento,20/08/17,H,Sampdoria,7,serie-a
+Genoa,20/08/17,D,Sassuolo,8,serie-a
+Chievo,20/08/17,D,Udinese,9,serie-a
+Bologna,26/08/17,D,Benevento,10,serie-a
+Juventus,26/08/17,A,Genoa,11,serie-a
+Inter,26/08/17,A,Roma,12,serie-a
+Lazio,27/08/17,D,Chievo,13,serie-a
+Verona,27/08/17,H,Crotone,14,serie-a
+Sampdoria,27/08/17,A,Fiorentina,15,serie-a
+Cagliari,27/08/17,H,Milan,16,serie-a
+Atalanta,27/08/17,D,Napoli,17,serie-a
+Udinese,27/08/17,H,Spal,18,serie-a
+Sassuolo,27/08/17,H,Torino,19,serie-a
+Chievo,09/09/17,H,Juventus,20,serie-a
+Sassuolo,10/09/17,H,Atalanta,21,serie-a
+Torino,10/09/17,D,Benevento,22,serie-a
+Napoli,10/09/17,A,Bologna,23,serie-a
+Crotone,10/09/17,H,Cagliari,24,serie-a
+Spal,10/09/17,H,Inter,25,serie-a
+Milan,10/09/17,H,Lazio,26,serie-a
+Genoa,10/09/17,H,Udinese,27,serie-a
+Fiorentina,10/09/17,A,Verona,28,serie-a
+Inter,16/09/17,A,Crotone,29,serie-a
+Bologna,16/09/17,H,Fiorentina,30,serie-a
+Verona,16/09/17,H,Roma,31,serie-a
+Atalanta,17/09/17,A,Chievo,32,serie-a
+Lazio,17/09/17,A,Genoa,33,serie-a
+Udinese,17/09/17,H,Milan,34,serie-a
+Benevento,17/09/17,H,Napoli,35,serie-a
+Juventus,17/09/17,A,Sassuolo,36,serie-a
+Cagliari,17/09/17,A,Spal,37,serie-a
+Sampdoria,17/09/17,D,Torino,38,serie-a
+Inter,19/09/17,D,Bologna,39,serie-a
+Crotone,20/09/17,H,Atalanta,40,serie-a
+Roma,20/09/17,A,Benevento,41,serie-a
+Sassuolo,20/09/17,A,Cagliari,42,serie-a
+Chievo,20/09/17,A,Genoa,43,serie-a
+Fiorentina,20/09/17,H,Juventus,44,serie-a
+Napoli,20/09/17,A,Lazio,45,serie-a
+Spal,20/09/17,H,Milan,46,serie-a
+Torino,20/09/17,A,Udinese,47,serie-a
+Sampdoria,20/09/17,H,Verona,48,serie-a
+Torino,23/09/17,H,Juventus,49,serie-a
+Udinese,23/09/17,H,Roma,50,serie-a
+Napoli,23/09/17,A,Spal,51,serie-a
+Chievo,24/09/17,A,Cagliari,52,serie-a
+Benevento,24/09/17,H,Crotone,53,serie-a
+Atalanta,24/09/17,H,Fiorentina,54,serie-a
+Genoa,24/09/17,H,Inter,55,serie-a
+Milan,24/09/17,D,Sampdoria,56,serie-a
+Bologna,24/09/17,D,Sassuolo,57,serie-a
+Lazio,24/09/17,A,Verona,58,serie-a
+Bologna,30/09/17,D,Genoa,59,serie-a
+Sampdoria,30/09/17,H,Udinese,60,serie-a
+Juventus,01/10/17,A,Atalanta,61,serie-a
+Inter,01/10/17,A,Benevento,62,serie-a
+Fiorentina,01/10/17,D,Chievo,63,serie-a
+Sassuolo,01/10/17,H,Lazio,64,serie-a
+Roma,01/10/17,A,Milan,65,serie-a
+Cagliari,01/10/17,H,Napoli,66,serie-a
+Crotone,01/10/17,H,Spal,67,serie-a
+Verona,01/10/17,H,Torino,68,serie-a
+Lazio,14/10/17,H,Juventus,69,serie-a
+Napoli,14/10/17,A,Roma,70,serie-a
+Spal,15/10/17,H,Bologna,71,serie-a
+Genoa,15/10/17,A,Cagliari,72,serie-a
+Torino,15/10/17,A,Crotone,73,serie-a
+Udinese,15/10/17,H,Fiorentina,74,serie-a
+Milan,15/10/17,H,Inter,75,serie-a
+Atalanta,15/10/17,A,Sampdoria,76,serie-a
+Chievo,15/10/17,D,Sassuolo,77,serie-a
+Benevento,16/10/17,H,Verona,78,serie-a
+Inter,21/10/17,H,Napoli,79,serie-a
+Crotone,21/10/17,H,Sampdoria,80,serie-a
+Bologna,22/10/17,D,Atalanta,81,serie-a
+Fiorentina,22/10/17,A,Benevento,82,serie-a
+Verona,22/10/17,H,Chievo,83,serie-a
+Cagliari,22/10/17,H,Lazio,84,serie-a
+Genoa,22/10/17,H,Milan,85,serie-a
+Sassuolo,22/10/17,A,Spal,86,serie-a
+Roma,22/10/17,A,Torino,87,serie-a
+Juventus,22/10/17,A,Udinese,88,serie-a
+Sampdoria,24/10/17,H,Inter,89,serie-a
+Verona,25/10/17,H,Atalanta,90,serie-a
+Lazio,25/10/17,A,Bologna,91,serie-a
+Benevento,25/10/17,H,Cagliari,92,serie-a
+Milan,25/10/17,A,Chievo,93,serie-a
+Torino,25/10/17,H,Fiorentina,94,serie-a
+Napoli,25/10/17,A,Genoa,95,serie-a
+Spal,25/10/17,H,Juventus,96,serie-a
+Crotone,25/10/17,H,Roma,97,serie-a
+Udinese,25/10/17,A,Sassuolo,98,serie-a
+Juventus,28/10/17,A,Milan,99,serie-a
+Bologna,28/10/17,H,Roma,100,serie-a
+Lazio,29/10/17,A,Benevento,101,serie-a
+Fiorentina,29/10/17,H,Crotone,102,serie-a
+Sassuolo,29/10/17,H,Napoli,103,serie-a
+Chievo,29/10/17,H,Sampdoria,104,serie-a
+Genoa,29/10/17,D,Spal,105,serie-a
+Cagliari,29/10/17,D,Torino,106,serie-a
+Atalanta,29/10/17,D,Udinese,107,serie-a
+Inter,30/10/17,A,Verona,108,serie-a
+Crotone,04/11/17,H,Bologna,109,serie-a
+Sampdoria,04/11/17,A,Genoa,110,serie-a
+Spal,05/11/17,H,Atalanta,111,serie-a
+Verona,05/11/17,H,Cagliari,112,serie-a
+Napoli,05/11/17,A,Chievo,113,serie-a
+Roma,05/11/17,A,Fiorentina,114,serie-a
+Torino,05/11/17,D,Inter,115,serie-a
+Benevento,05/11/17,H,Juventus,116,serie-a
+Milan,05/11/17,A,Sassuolo,117,serie-a
+Milan,18/11/17,H,Napoli,118,serie-a
+Lazio,18/11/17,H,Roma,119,serie-a
+Sassuolo,19/11/17,A,Benevento,120,serie-a
+Genoa,19/11/17,A,Crotone,121,serie-a
+Atalanta,19/11/17,H,Inter,122,serie-a
+Juventus,19/11/17,D,Sampdoria,123,serie-a
+Fiorentina,19/11/17,D,Spal,124,serie-a
+Chievo,19/11/17,D,Torino,125,serie-a
+Cagliari,19/11/17,D,Udinese,126,serie-a
+Bologna,20/11/17,H,Verona,127,serie-a
+Sampdoria,25/11/17,H,Bologna,128,serie-a
+Inter,25/11/17,A,Cagliari,129,serie-a
+Spal,25/11/17,A,Chievo,130,serie-a
+Verona,25/11/17,A,Sassuolo,131,serie-a
+Roma,26/11/17,D,Genoa,132,serie-a
+Crotone,26/11/17,H,Juventus,133,serie-a
+Fiorentina,26/11/17,H,Lazio,134,serie-a
+Torino,26/11/17,H,Milan,135,serie-a
+Napoli,26/11/17,A,Udinese,136,serie-a
+Benevento,27/11/17,H,Atalanta,137,serie-a
+Juventus,01/12/17,A,Napoli,138,serie-a
+Spal,01/12/17,H,Roma,139,serie-a
+Atalanta,02/12/17,H,Torino,140,serie-a
+Milan,03/12/17,A,Benevento,141,serie-a
+Cagliari,03/12/17,D,Bologna,142,serie-a
+Sassuolo,03/12/17,H,Fiorentina,143,serie-a
+Chievo,03/12/17,H,Inter,144,serie-a
+Lazio,03/12/17,D,Sampdoria,145,serie-a
+Udinese,04/12/17,A,Crotone,146,serie-a
+Genoa,04/12/17,A,Verona,147,serie-a
+Sampdoria,09/12/17,A,Cagliari,148,serie-a
+Inter,09/12/17,H,Juventus,149,serie-a
+Roma,10/12/17,A,Chievo,150,serie-a
+Bologna,10/12/17,H,Milan,151,serie-a
+Fiorentina,10/12/17,H,Napoli,152,serie-a
+Crotone,10/12/17,H,Sassuolo,153,serie-a
+Verona,10/12/17,H,Spal,154,serie-a
+Benevento,10/12/17,H,Udinese,155,serie-a
+Torino,11/12/17,D,Lazio,156,serie-a
+Atalanta,12/12/17,A,Genoa,157,serie-a
+Udinese,16/12/17,D,Inter,158,serie-a
+Cagliari,16/12/17,H,Roma,159,serie-a
+Napoli,16/12/17,A,Torino,160,serie-a
+Lazio,17/12/17,D,Atalanta,161,serie-a
+Spal,17/12/17,D,Benevento,162,serie-a
+Juventus,17/12/17,A,Bologna,163,serie-a
+Chievo,17/12/17,H,Crotone,164,serie-a
+Genoa,17/12/17,D,Fiorentina,165,serie-a
+Sassuolo,17/12/17,A,Sampdoria,166,serie-a
+Milan,17/12/17,H,Verona,167,serie-a
+Fiorentina,22/12/17,A,Cagliari,168,serie-a
+Bologna,22/12/17,H,Chievo,169,serie-a
+Benevento,23/12/17,H,Genoa,170,serie-a
+Roma,23/12/17,H,Juventus,171,serie-a
+Crotone,23/12/17,H,Lazio,172,serie-a
+Atalanta,23/12/17,A,Milan,173,serie-a
+Sampdoria,23/12/17,H,Napoli,174,serie-a
+Inter,23/12/17,H,Sassuolo,175,serie-a
+Torino,23/12/17,A,Spal,176,serie-a
+Verona,23/12/17,H,Udinese,177,serie-a
+Napoli,29/12/17,A,Crotone,178,serie-a
+Cagliari,30/12/17,D,Atalanta,179,serie-a
+Chievo,30/12/17,H,Benevento,180,serie-a
+Udinese,30/12/17,A,Bologna,181,serie-a
+Milan,30/12/17,H,Fiorentina,182,serie-a
+Lazio,30/12/17,D,Inter,183,serie-a
+Sassuolo,30/12/17,H,Roma,184,serie-a
+Spal,30/12/17,H,Sampdoria,185,serie-a
+Genoa,30/12/17,D,Torino,186,serie-a
+Juventus,30/12/17,A,Verona,187,serie-a
+Udinese,05/01/18,H,Chievo,188,serie-a
+Inter,05/01/18,D,Fiorentina,189,serie-a
+Sampdoria,06/01/18,A,Benevento,190,serie-a
+Juventus,06/01/18,A,Cagliari,191,serie-a
+Sassuolo,06/01/18,D,Genoa,192,serie-a
+Crotone,06/01/18,H,Milan,193,serie-a
+Verona,06/01/18,H,Napoli,194,serie-a
+Atalanta,06/01/18,A,Roma,195,serie-a
+Lazio,06/01/18,A,Spal,196,serie-a
+Bologna,06/01/18,H,Torino,197,serie-a
+Napoli,21/01/18,D,Atalanta,198,serie-a
+Benevento,21/01/18,H,Bologna,199,serie-a
+Milan,21/01/18,A,Cagliari,200,serie-a
+Roma,21/01/18,D,Inter,201,serie-a
+Chievo,21/01/18,H,Lazio,202,serie-a
+Fiorentina,21/01/18,H,Sampdoria,203,serie-a
+Torino,21/01/18,A,Sassuolo,204,serie-a
+Spal,21/01/18,H,Udinese,205,serie-a
+Crotone,21/01/18,A,Verona,206,serie-a
+Genoa,22/01/18,H,Juventus,207,serie-a
+Udinese,24/01/18,H,Lazio,208,serie-a
+Roma,24/01/18,D,Sampdoria,209,serie-a
+Juventus,27/01/18,A,Chievo,210,serie-a
+Atalanta,27/01/18,A,Sassuolo,211,serie-a
+Cagliari,28/01/18,D,Crotone,212,serie-a
+Verona,28/01/18,A,Fiorentina,213,serie-a
+Udinese,28/01/18,D,Genoa,214,serie-a
+Lazio,28/01/18,H,Milan,215,serie-a
+Bologna,28/01/18,H,Napoli,216,serie-a
+Sampdoria,28/01/18,A,Roma,217,serie-a
+Inter,28/01/18,D,Spal,218,serie-a
+Benevento,28/01/18,H,Torino,219,serie-a
+Crotone,03/02/18,H,Inter,220,serie-a
+Torino,03/02/18,D,Sampdoria,221,serie-a
+Chievo,04/02/18,D,Atalanta,222,serie-a
+Napoli,04/02/18,A,Benevento,223,serie-a
+Fiorentina,04/02/18,A,Bologna,224,serie-a
+Spal,04/02/18,H,Cagliari,225,serie-a
+Sassuolo,04/02/18,H,Juventus,226,serie-a
+Milan,04/02/18,A,Udinese,227,serie-a
+Roma,04/02/18,A,Verona,228,serie-a
+Genoa,05/02/18,D,Lazio,229,serie-a
+Juventus,09/02/18,D,Fiorentina,230,serie-a
+Atalanta,10/02/18,D,Crotone,231,serie-a
+Lazio,10/02/18,H,Napoli,232,serie-a
+Milan,10/02/18,A,Spal,233,serie-a
+Genoa,11/02/18,D,Chievo,234,serie-a
+Bologna,11/02/18,H,Inter,235,serie-a
+Benevento,11/02/18,H,Roma,236,serie-a
+Verona,11/02/18,H,Sampdoria,237,serie-a
+Cagliari,11/02/18,D,Sassuolo,238,serie-a
+Udinese,11/02/18,H,Torino,239,serie-a
+Cagliari,17/02/18,D,Chievo,240,serie-a
+Inter,17/02/18,A,Genoa,241,serie-a
+Roma,17/02/18,A,Udinese,242,serie-a
+Fiorentina,18/02/18,H,Atalanta,243,serie-a
+Crotone,18/02/18,H,Benevento,244,serie-a
+Sassuolo,18/02/18,H,Bologna,245,serie-a
+Sampdoria,18/02/18,H,Milan,246,serie-a
+Spal,18/02/18,H,Napoli,247,serie-a
+Juventus,18/02/18,A,Torino,248,serie-a
+Verona,19/02/18,H,Lazio,249,serie-a
+Genoa,24/02/18,D,Bologna,250,serie-a
+Benevento,24/02/18,H,Inter,251,serie-a
+Spal,25/02/18,A,Crotone,252,serie-a
+Chievo,25/02/18,H,Fiorentina,253,serie-a
+Milan,25/02/18,A,Roma,254,serie-a
+Udinese,25/02/18,H,Sampdoria,255,serie-a
+Lazio,25/02/18,A,Sassuolo,256,serie-a
+Torino,25/02/18,H,Verona,257,serie-a
+Napoli,26/02/18,A,Cagliari,258,serie-a
+Juventus,03/03/18,D,Lazio,259,serie-a
+Roma,03/03/18,H,Napoli,260,serie-a
+Bologna,03/03/18,D,Spal,261,serie-a
+Torino,09/03/18,D,Roma,262,serie-a
+Chievo,10/03/18,D,Verona,263,serie-a
+Atalanta,11/03/18,A,Bologna,264,serie-a
+Lazio,11/03/18,D,Cagliari,265,serie-a
+Sampdoria,11/03/18,H,Crotone,266,serie-a
+Benevento,11/03/18,H,Fiorentina,267,serie-a
+Milan,11/03/18,A,Genoa,268,serie-a
+Napoli,11/03/18,D,Inter,269,serie-a
+Udinese,11/03/18,H,Juventus,270,serie-a
+Spal,11/03/18,D,Sassuolo,271,serie-a
+Atalanta,14/03/18,H,Juventus,272,serie-a
+Juventus,17/03/18,A,Spal,273,serie-a
+Sassuolo,17/03/18,D,Udinese,274,serie-a
+Cagliari,18/03/18,H,Benevento,275,serie-a
+Roma,18/03/18,A,Crotone,276,serie-a
+Bologna,18/03/18,D,Lazio,277,serie-a
+Chievo,18/03/18,D,Milan,278,serie-a
+Genoa,18/03/18,H,Napoli,279,serie-a
+Inter,18/03/18,A,Sampdoria,280,serie-a
+Fiorentina,18/03/18,D,Torino,281,serie-a
+Atalanta,18/03/18,A,Verona,282,serie-a
+Udinese,31/03/18,H,Atalanta,283,serie-a
+Roma,31/03/18,D,Bologna,284,serie-a
+Torino,31/03/18,A,Cagliari,285,serie-a
+Sampdoria,31/03/18,A,Chievo,286,serie-a
+Crotone,31/03/18,H,Fiorentina,287,serie-a
+Spal,31/03/18,H,Genoa,288,serie-a
+Verona,31/03/18,H,Inter,289,serie-a
+Milan,31/03/18,D,Juventus,290,serie-a
+Benevento,31/03/18,H,Lazio,291,serie-a
+Napoli,31/03/18,D,Sassuolo,292,serie-a
+Sampdoria,03/04/18,A,Atalanta,293,serie-a
+Cagliari,03/04/18,A,Genoa,294,serie-a
+Fiorentina,03/04/18,A,Udinese,295,serie-a
+Verona,04/04/18,H,Benevento,296,serie-a
+Sassuolo,04/04/18,D,Chievo,297,serie-a
+Inter,04/04/18,D,Milan,298,serie-a
+Crotone,04/04/18,H,Torino,299,serie-a
+Juventus,07/04/18,A,Benevento,300,serie-a
+Fiorentina,07/04/18,A,Roma,301,serie-a
+Genoa,07/04/18,D,Sampdoria,302,serie-a
+Atalanta,07/04/18,H,Spal,303,serie-a
+Bologna,08/04/18,H,Crotone,304,serie-a
+Sassuolo,08/04/18,H,Milan,305,serie-a
+Chievo,08/04/18,H,Napoli,306,serie-a
+Inter,08/04/18,H,Torino,307,serie-a
+Lazio,08/04/18,A,Udinese,308,serie-a
+Cagliari,08/04/18,H,Verona,309,serie-a
+Inter,14/04/18,D,Atalanta,310,serie-a
+Udinese,14/04/18,D,Cagliari,311,serie-a
+Torino,14/04/18,A,Chievo,312,serie-a
+Crotone,14/04/18,H,Genoa,313,serie-a
+Verona,15/04/18,H,Bologna,314,serie-a
+Spal,15/04/18,H,Fiorentina,315,serie-a
+Sampdoria,15/04/18,H,Juventus,316,serie-a
+Roma,15/04/18,D,Lazio,317,serie-a
+Napoli,15/04/18,A,Milan,318,serie-a
+Benevento,15/04/18,D,Sassuolo,319,serie-a
+Cagliari,17/04/18,H,Inter,320,serie-a
+Atalanta,18/04/18,A,Benevento,321,serie-a
+Juventus,18/04/18,A,Crotone,322,serie-a
+Lazio,18/04/18,D,Fiorentina,323,serie-a
+Udinese,18/04/18,H,Napoli,324,serie-a
+Genoa,18/04/18,H,Roma,325,serie-a
+Bologna,18/04/18,D,Sampdoria,326,serie-a
+Chievo,18/04/18,D,Spal,327,serie-a
+Milan,18/04/18,A,Torino,328,serie-a
+Sassuolo,18/04/18,A,Verona,329,serie-a
+Benevento,21/04/18,H,Milan,330,serie-a
+Fiorentina,21/04/18,H,Sassuolo,331,serie-a
+Roma,21/04/18,A,Spal,332,serie-a
+Torino,22/04/18,H,Atalanta,333,serie-a
+Bologna,22/04/18,D,Cagliari,334,serie-a
+Inter,22/04/18,D,Chievo,335,serie-a
+Napoli,22/04/18,D,Juventus,336,serie-a
+Sampdoria,22/04/18,H,Lazio,337,serie-a
+Crotone,22/04/18,H,Udinese,338,serie-a
+Verona,23/04/18,H,Genoa,339,serie-a
+Juventus,28/04/18,A,Inter,340,serie-a
+Chievo,28/04/18,H,Roma,341,serie-a
+Genoa,29/04/18,H,Atalanta,342,serie-a
+Udinese,29/04/18,D,Benevento,343,serie-a
+Milan,29/04/18,A,Bologna,344,serie-a
+Sassuolo,29/04/18,H,Crotone,345,serie-a
+Napoli,29/04/18,H,Fiorentina,346,serie-a
+Cagliari,29/04/18,H,Sampdoria,347,serie-a
+Lazio,29/04/18,A,Torino,348,serie-a
+Spal,29/04/18,H,Verona,349,serie-a
+Bologna,05/05/18,H,Juventus,350,serie-a
+Verona,05/05/18,H,Milan,351,serie-a
+Roma,06/05/18,A,Cagliari,352,serie-a
+Crotone,06/05/18,D,Chievo,353,serie-a
+Fiorentina,06/05/18,A,Genoa,354,serie-a
+Atalanta,06/05/18,D,Lazio,355,serie-a
+Torino,06/05/18,H,Napoli,356,serie-a
+Sampdoria,06/05/18,H,Sassuolo,357,serie-a
+Benevento,06/05/18,H,Spal,358,serie-a
+Inter,06/05/18,A,Udinese,359,serie-a
+Genoa,12/05/18,A,Benevento,360,serie-a
+Sassuolo,12/05/18,A,Inter,361,serie-a
+Milan,13/05/18,D,Atalanta,362,serie-a
+Chievo,13/05/18,H,Bologna,363,serie-a
+Lazio,13/05/18,A,Crotone,364,serie-a
+Cagliari,13/05/18,A,Fiorentina,365,serie-a
+Juventus,13/05/18,D,Roma,366,serie-a
+Napoli,13/05/18,A,Sampdoria,367,serie-a
+Spal,13/05/18,H,Torino,368,serie-a
+Udinese,13/05/18,A,Verona,369,serie-a
+Verona,19/05/18,H,Juventus,370,serie-a
+Atalanta,20/05/18,D,Cagliari,371,serie-a
+Benevento,20/05/18,H,Chievo,372,serie-a
+Torino,20/05/18,A,Genoa,373,serie-a
+Inter,20/05/18,A,Lazio,374,serie-a
+Fiorentina,20/05/18,H,Milan,375,serie-a
+Crotone,20/05/18,H,Napoli,376,serie-a
+Roma,20/05/18,A,Sassuolo,377,serie-a
+Sampdoria,20/05/18,H,Spal,378,serie-a
+Bologna,20/05/18,H,Udinese,379,serie-a

@@ -1,0 +1,295 @@
+Season,League,Team,Standing
+2014-15,bundesliga,Bayern Munich,1
+2014-15,bundesliga,Wolfsburg,2
+2014-15,bundesliga,M'gladbach,3
+2014-15,bundesliga,Leverkusen,4
+2014-15,bundesliga,Augsburg,5
+2014-15,bundesliga,Schalke 04,6
+2014-15,bundesliga,Dortmund,7
+2014-15,bundesliga,Hoffenheim,8
+2014-15,bundesliga,Ein Frankfurt,9
+2014-15,bundesliga,Werder Bremen,10
+2014-15,bundesliga,Mainz,11
+2014-15,bundesliga,FC Koln,12
+2014-15,bundesliga,Hannover,13
+2014-15,bundesliga,Stuttgart,14
+2014-15,bundesliga,Hertha,15
+2014-15,bundesliga,Hamburg,16
+2014-15,bundesliga,Freiburg,17
+2014-15,bundesliga,Paderborn,18
+2014-15,la-liga,Barcelona,1
+2014-15,la-liga,Real Madrid,2
+2014-15,la-liga,Ath Madrid,3
+2014-15,la-liga,Valencia,4
+2014-15,la-liga,Sevilla,5
+2014-15,la-liga,Villarreal,6
+2014-15,la-liga,Ath Bilbao,7
+2014-15,la-liga,Celta,8
+2014-15,la-liga,Malaga,9
+2014-15,la-liga,Espanol,10
+2014-15,la-liga,Vallecano,11
+2014-15,la-liga,Sociedad,12
+2014-15,la-liga,Elche,13
+2014-15,la-liga,Levante,14
+2014-15,la-liga,Getafe,15
+2014-15,la-liga,La Coruna,16
+2014-15,la-liga,Granada,17
+2014-15,la-liga,Eibar,18
+2014-15,la-liga,Almeria,19
+2014-15,la-liga,Cordoba,20
+2014-15,ligue-1,Paris SG,1
+2014-15,ligue-1,Lyon,2
+2014-15,ligue-1,Monaco,3
+2014-15,ligue-1,Marseille,4
+2014-15,ligue-1,St Etienne,5
+2014-15,ligue-1,Bordeaux,6
+2014-15,ligue-1,Montpellier,7
+2014-15,ligue-1,Lille,8
+2014-15,ligue-1,Rennes,9
+2014-15,ligue-1,Guingamp,10
+2014-15,ligue-1,Nice,11
+2014-15,ligue-1,Bastia,12
+2014-15,ligue-1,Caen,13
+2014-15,ligue-1,Nantes,14
+2014-15,ligue-1,Reims,15
+2014-15,ligue-1,Lorient,16
+2014-15,ligue-1,Toulouse,17
+2014-15,ligue-1,Evian Thonon Gaillard,18
+2014-15,ligue-1,Metz,19
+2014-15,ligue-1,Lens,20
+2014-15,premier-league,Chelsea,1
+2014-15,premier-league,Man City,2
+2014-15,premier-league,Arsenal,3
+2014-15,premier-league,Man United,4
+2014-15,premier-league,Tottenham,5
+2014-15,premier-league,Liverpool,6
+2014-15,premier-league,Southampton,7
+2014-15,premier-league,Swansea,8
+2014-15,premier-league,Stoke,9
+2014-15,premier-league,Crystal Palace,10
+2014-15,premier-league,Everton,11
+2014-15,premier-league,West Ham,12
+2014-15,premier-league,West Brom,13
+2014-15,premier-league,Leicester,14
+2014-15,premier-league,Newcastle,15
+2014-15,premier-league,Sunderland,16
+2014-15,premier-league,Aston Villa,17
+2014-15,premier-league,Hull,18
+2014-15,premier-league,Burnley,19
+2014-15,premier-league,QPR,20
+2014-15,serie-a,Juventus,1
+2014-15,serie-a,Roma,2
+2014-15,serie-a,Lazio,3
+2014-15,serie-a,Fiorentina,4
+2014-15,serie-a,Napoli,5
+2014-15,serie-a,Genoa,6
+2014-15,serie-a,Sampdoria,7
+2014-15,serie-a,Inter,8
+2014-15,serie-a,Torino,9
+2014-15,serie-a,Milan,10
+2014-15,serie-a,Palermo,11
+2014-15,serie-a,Sassuolo,12
+2014-15,serie-a,Verona,13
+2014-15,serie-a,Chievo,14
+2014-15,serie-a,Empoli,15
+2014-15,serie-a,Udinese,16
+2014-15,serie-a,Atalanta,17
+2014-15,serie-a,Cagliari,18
+2014-15,serie-a,Cesena,19
+2014-15,serie-a,Parma,20
+2015-16,bundesliga,Bayern Munich,1
+2015-16,bundesliga,Dortmund,2
+2015-16,bundesliga,Leverkusen,3
+2015-16,bundesliga,M'gladbach,4
+2015-16,bundesliga,Schalke 04,5
+2015-16,bundesliga,Mainz,6
+2015-16,bundesliga,Hertha,7
+2015-16,bundesliga,Wolfsburg,8
+2015-16,bundesliga,FC Koln,9
+2015-16,bundesliga,Hamburg,10
+2015-16,bundesliga,Ingolstadt,11
+2015-16,bundesliga,Augsburg,12
+2015-16,bundesliga,Werder Bremen,13
+2015-16,bundesliga,Darmstadt,14
+2015-16,bundesliga,Hoffenheim,15
+2015-16,bundesliga,Ein Frankfurt,16
+2015-16,bundesliga,Stuttgart,17
+2015-16,bundesliga,Hannover,18
+2015-16,la-liga,Barcelona,1
+2015-16,la-liga,Real Madrid,2
+2015-16,la-liga,Ath Madrid,3
+2015-16,la-liga,Villarreal,4
+2015-16,la-liga,Ath Bilbao,5
+2015-16,la-liga,Celta,6
+2015-16,la-liga,Sevilla,7
+2015-16,la-liga,Malaga,8
+2015-16,la-liga,Sociedad,9
+2015-16,la-liga,Betis,10
+2015-16,la-liga,Las Palmas,11
+2015-16,la-liga,Valencia,12
+2015-16,la-liga,Eibar,13
+2015-16,la-liga,Espanol,14
+2015-16,la-liga,La Coruna,15
+2015-16,la-liga,Granada,16
+2015-16,la-liga,Sp Gijon,17
+2015-16,la-liga,Vallecano,18
+2015-16,la-liga,Getafe,19
+2015-16,la-liga,Levante,20
+2015-16,ligue-1,Paris SG,1
+2015-16,ligue-1,Lyon,2
+2015-16,ligue-1,Monaco,3
+2015-16,ligue-1,Nice,4
+2015-16,ligue-1,Lille,5
+2015-16,ligue-1,St Etienne,6
+2015-16,ligue-1,Caen,7
+2015-16,ligue-1,Rennes,8
+2015-16,ligue-1,Angers,9
+2015-16,ligue-1,Bastia,10
+2015-16,ligue-1,Bordeaux,11
+2015-16,ligue-1,Montpellier,12
+2015-16,ligue-1,Marseille,13
+2015-16,ligue-1,Nantes,14
+2015-16,ligue-1,Lorient,15
+2015-16,ligue-1,Guingamp,16
+2015-16,ligue-1,Toulouse,17
+2015-16,ligue-1,Reims,18
+2015-16,ligue-1,Ajaccio,19
+2015-16,ligue-1,Troyes,20
+2015-16,premier-league,Leicester,1
+2015-16,premier-league,Arsenal,2
+2015-16,premier-league,Tottenham,3
+2015-16,premier-league,Man City,4
+2015-16,premier-league,Man United,5
+2015-16,premier-league,Southampton,6
+2015-16,premier-league,West Ham,7
+2015-16,premier-league,Liverpool,8
+2015-16,premier-league,Stoke,9
+2015-16,premier-league,Chelsea,10
+2015-16,premier-league,Everton,11
+2015-16,premier-league,Swansea,12
+2015-16,premier-league,Watford,13
+2015-16,premier-league,West Brom,14
+2015-16,premier-league,Crystal Palace,15
+2015-16,premier-league,Bournemouth,16
+2015-16,premier-league,Sunderland,17
+2015-16,premier-league,Newcastle,18
+2015-16,premier-league,Norwich,19
+2015-16,premier-league,Aston Villa,20
+2015-16,serie-a,Juventus,1
+2015-16,serie-a,Napoli,2
+2015-16,serie-a,Roma,3
+2015-16,serie-a,Inter,4
+2015-16,serie-a,Fiorentina,5
+2015-16,serie-a,Sassuolo,6
+2015-16,serie-a,Milan,7
+2015-16,serie-a,Lazio,8
+2015-16,serie-a,Chievo,9
+2015-16,serie-a,Genoa,10
+2015-16,serie-a,Empoli,11
+2015-16,serie-a,Torino,12
+2015-16,serie-a,Atalanta,13
+2015-16,serie-a,Bologna,14
+2015-16,serie-a,Sampdoria,15
+2015-16,serie-a,Palermo,16
+2015-16,serie-a,Udinese,17
+2015-16,serie-a,Carpi,18
+2015-16,serie-a,Frosinone,19
+2015-16,serie-a,Verona,20
+2016-17,bundesliga,Bayern Munich,1
+2016-17,bundesliga,RB Leipzig,2
+2016-17,bundesliga,Dortmund,3
+2016-17,bundesliga,Hoffenheim,4
+2016-17,bundesliga,FC Koln,5
+2016-17,bundesliga,Hertha,6
+2016-17,bundesliga,Freiburg,7
+2016-17,bundesliga,Werder Bremen,8
+2016-17,bundesliga,M'gladbach,9
+2016-17,bundesliga,Schalke 04,10
+2016-17,bundesliga,Ein Frankfurt,11
+2016-17,bundesliga,Leverkusen,12
+2016-17,bundesliga,Augsburg,13
+2016-17,bundesliga,Hamburg,14
+2016-17,bundesliga,Mainz,15
+2016-17,bundesliga,Wolfsburg,16
+2016-17,bundesliga,Ingolstadt,17
+2016-17,bundesliga,Darmstadt,18
+2016-17,la-liga,Real Madrid,1
+2016-17,la-liga,Barcelona,2
+2016-17,la-liga,Ath Madrid,3
+2016-17,la-liga,Sevilla,4
+2016-17,la-liga,Villarreal,5
+2016-17,la-liga,Sociedad,6
+2016-17,la-liga,Ath Bilbao,7
+2016-17,la-liga,Espanol,8
+2016-17,la-liga,Alaves,9
+2016-17,la-liga,Eibar,10
+2016-17,la-liga,Malaga,11
+2016-17,la-liga,Valencia,12
+2016-17,la-liga,Celta,13
+2016-17,la-liga,Las Palmas,14
+2016-17,la-liga,Betis,15
+2016-17,la-liga,La Coruna,16
+2016-17,la-liga,Leganes,17
+2016-17,la-liga,Sp Gijon,18
+2016-17,la-liga,Osasuna,19
+2016-17,la-liga,Granada,20
+2016-17,ligue-1,Monaco,1
+2016-17,ligue-1,Paris SG,2
+2016-17,ligue-1,Nice,3
+2016-17,ligue-1,Lyon,4
+2016-17,ligue-1,Marseille,5
+2016-17,ligue-1,Bordeaux,6
+2016-17,ligue-1,Nantes,7
+2016-17,ligue-1,Rennes,8
+2016-17,ligue-1,St Etienne,9
+2016-17,ligue-1,Guingamp,10
+2016-17,ligue-1,Angers,11
+2016-17,ligue-1,Lille,12
+2016-17,ligue-1,Toulouse,13
+2016-17,ligue-1,Metz,14
+2016-17,ligue-1,Montpellier,15
+2016-17,ligue-1,Dijon,16
+2016-17,ligue-1,Caen,17
+2016-17,ligue-1,Lorient,18
+2016-17,ligue-1,Nancy,19
+2016-17,ligue-1,Bastia,20
+2016-17,premier-league,Chelsea,1
+2016-17,premier-league,Tottenham,2
+2016-17,premier-league,Man City,3
+2016-17,premier-league,Liverpool,4
+2016-17,premier-league,Arsenal,5
+2016-17,premier-league,Man United,6
+2016-17,premier-league,Everton,7
+2016-17,premier-league,Southampton,8
+2016-17,premier-league,Bournemouth,9
+2016-17,premier-league,West Brom,10
+2016-17,premier-league,West Ham,11
+2016-17,premier-league,Leicester,12
+2016-17,premier-league,Stoke,13
+2016-17,premier-league,Crystal Palace,14
+2016-17,premier-league,Swansea,15
+2016-17,premier-league,Burnley,16
+2016-17,premier-league,Watford,17
+2016-17,premier-league,Hull,18
+2016-17,premier-league,Middlesbrough,19
+2016-17,premier-league,Sunderland,20
+2016-17,serie-a,Juventus,1
+2016-17,serie-a,Roma,2
+2016-17,serie-a,Napoli,3
+2016-17,serie-a,Atalanta,4
+2016-17,serie-a,Lazio,5
+2016-17,serie-a,Milan,6
+2016-17,serie-a,Inter,7
+2016-17,serie-a,Fiorentina,8
+2016-17,serie-a,Torino,9
+2016-17,serie-a,Sassuolo,10
+2016-17,serie-a,Sampdoria,11
+2016-17,serie-a,Cagliari,12
+2016-17,serie-a,Udinese,13
+2016-17,serie-a,Chievo,14
+2016-17,serie-a,Bologna,15
+2016-17,serie-a,Genoa,16
+2016-17,serie-a,Crotone,17
+2016-17,serie-a,Empoli,18
+2016-17,serie-a,Palermo,19
+2016-17,serie-a,Pescara,20
